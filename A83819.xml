@@ -1,0 +1,1262 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The report made to the honourable House of Commons, Decemb. 15. 1699. By the commissioners appointed to enquire into the forfeited estates of Ireland</title>
+            <author>Ireland. Commissioners appointed to enquire into the Forfeited Estates.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 114 KB of XML-encoded text transcribed from 28 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83819</idno>
+            <idno type="STC">Wing E2704AC</idno>
+            <idno type="STC">ESTC R200771</idno>
+            <idno type="EEBO-CITATION">99897346</idno>
+            <idno type="PROQUEST">99897346</idno>
+            <idno type="VID">135319</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A83819)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 135319)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2499:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The report made to the honourable House of Commons, Decemb. 15. 1699. By the commissioners appointed to enquire into the forfeited estates of Ireland</title>
+                  <author>Ireland. Commissioners appointed to enquire into the Forfeited Estates.</author>
+               </titleStmt>
+               <extent>[4], 52 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the Year M.DCC. [1700]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With a half-title: The Irish Commissioners Report, &amp;c.</note>
+                  <note>Copy filmed at UMI microfilm Early English Books 1641-1700 reel 2499 bound and filmed with title page to "Jus regium: or, the King's right to grant forfeitures,"(London, 1701).</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Estates (Law) --  Ireland --  Early works to 1800.</term>
+               <term>Ireland --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Zev Berger</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Zev Berger</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:135319:1"/>
+            <pb facs="tcp:135319:1"/>
+            <p>THE REPORT Made to the <hi>Honourable Houſe of COMMONS, Decemb.</hi> 15. 1699. BY THE Commiſſioners appointed to Enquire into the Forfeited Eſtates OF IRELAND.</p>
+            <p>
+               <hi>LONDON;</hi> Printed in the Year M.DCC.</p>
+         </div>
+      </front>
+      <body>
+         <div type="report">
+            <pb facs="tcp:135319:2"/>
+            <pb n="1" facs="tcp:135319:2"/>
+            <head>
+               <hi>The Report made to the Honourable Houſe of Commons, by the Com<g ref="char:EOLhyphen"/>miſſioners appoined to enquire into the Forfeited Eſtates of</hi> Ireland, Decemb. 15. 1699.</head>
+            <opener>
+               <salute>May it pleaſe your Honours;</salute>
+            </opener>
+            <p n="1">1. ACcording to the powers given us by a late Act of Parliament, made in the 10th and 11th years of his Majeſty's Reign, intitled, An Act for grant<g ref="char:EOLhyphen"/>ing his Majeſty the ſum of one million four hundred eighty four thouſand and fifteen pounds one ſhilling eleven pence three farthings, for disbanding the Army, providing for the Navy, and for other neceſſary Occa<g ref="char:EOLhyphen"/>ſions; we have enquired into and taken an account of the Forfeited Eſtates in <hi>Ireland,</hi> and do humbly lay be<g ref="char:EOLhyphen"/>fore your Honours this our following Report, as the re<g ref="char:EOLhyphen"/>ſult of our Proceedings.</p>
+            <p n="2">2. But firſt we muſt humbly crave leave to repreſent to your Honours the many difficulties we have met with, which we fear may render our Enquiry leſs ſatisfactory than otherwiſe it might have been.</p>
+            <p n="3">3. It is uſual for the General Governours of this King<g ref="char:EOLhyphen"/>dom, when they are removed from their Imployments, to carry away the Books and Papers relating to their
+<pb n="2" facs="tcp:135319:3"/>proceedings during their Government: which we ap<g ref="char:EOLhyphen"/>prehend may have been ſome hindrance to our En<g ref="char:EOLhyphen"/>quiry.</p>
+            <p n="4">4. Soon after the Battel of the <hi>Boyne,</hi> Commiſſioners of Forfeitures were appointed under the Great Seal of <hi>Ireland,</hi> who ſubſtituted Commiſſioners in the ſeveral Counties then in his Majeſty's poſſeſſion; theſe Sub-Commiſſioners acted very vigorouſly, and made returns of great quantities of Goods forfeited, but ſeveral of the Books we were not able to get, which was a great diſadvantage to our proceedings; thoſe Returns having been made whilſt the miſchiefs were freſh, and the re<g ref="char:EOLhyphen"/>ſentments high between Proteſtants and Papiſts, and conſequently with leſs favour than hath ſince been ſhewn.</p>
+            <p n="5">5. Many Commiſſions for taking Inquiſitions have been iſſued both from the <hi>Chancery</hi> and <hi>Exchequer</hi> that are not ſped: others have been imperfectly taken, and worſe drawn up: ſome have never been returned, nor ſo much as the Records made up by the Eſcheator.</p>
+            <p n="6">6. Great quantities of Land found in the Inquiſitions, have not been put in Charge to his Majeſty, nor appear in the Rent Rolls; and many Denominations appear in the Rent Rolls, of which no Inquiſitions were taken; and a great many other parcels of Lands are mentioned in the Grants which are neither mentioned in the In<g ref="char:EOLhyphen"/>quiſitions nor Rent Rolls; and ſome in the Sub-Commiſ<g ref="char:EOLhyphen"/>ſioners Books, that are found no where elſe; and there may be many more of which we can trace no footſteps.</p>
+            <p n="7">7. As we cannot complain to your Honours of any di<g ref="char:EOLhyphen"/>rect diſobedience to our Authority, ſo we muſt take no<g ref="char:EOLhyphen"/>tice, that we had from few Offices that diſpatch which was neceſſary to the work we had the honour to be employed in: but whether this proceeded from any unwillingneſs to obey us, the multitude of other buſi<g ref="char:EOLhyphen"/>neſs, or the irregular methods of keeping their Books, we do not affirm.</p>
+            <pb n="3" facs="tcp:135319:3"/>
+            <p n="8">8. Particularly the Books of the Commiſſioners of the Revenue relating to the Forfeitures, are ſo ill and con<g ref="char:EOLhyphen"/>fuſedly kept, as much delay'd us in our proceedings: but this we do not attribute ſo much to the Commiſſi<g ref="char:EOLhyphen"/>oners of the Revenue, as to the ſhifting this Enquiry from one Commiſſion to another; which has been done five times ſince the Battel of the <hi>Boyne:</hi> So that no Com<g ref="char:EOLhyphen"/>miſſioners (if they were diſpoſed to it) have been able to take any ſteady view of the Forfeitures, and digeſt them into Method.</p>
+            <p n="9">9. By this means, we have been forc'd to examine ſuch vaſt bundles of Records and Volumes of other Papers, as have taken up much of that time which might have been employ'd in the examination of the values, and enquiring into the miſmanagement of the Forfeitures; which appear to us very great: tho by the diſtance of time, the agreement of the parties concerned, the death of ſome, the departure of others out of the Kingdom, moſt of the tracks are worn out; ſo that we found it very difficult, and in many caſes impoſſible, to come at a true information.</p>
+            <p n="10">10. Beſides, there appeared to us a very great back<g ref="char:EOLhyphen"/>wardneſs in the people of this Kingdom to give any in<g ref="char:EOLhyphen"/>formation; which, in our humble opinion, does not proceed from any diſlike to the buſineſs of our Com<g ref="char:EOLhyphen"/>miſſion, or diſobedience to the Authority that ſent us, but from the fear of the Grantees and perſons in power, whoſe diſpleaſure in this Kingdom is not eaſily born: beſides, reports ſeem'd to us to have been induſtriouſly ſpread abroad and generally believed, that our Enquiry would come to nothing, and was only the effect of a ſudden Reſolution; which hinder'd many perſons from making conſiderable diſcoveries: but we humbly con<g ref="char:EOLhyphen"/>ceive if ſuch fears were removed, the Forfeitures would appear much greater.</p>
+            <p n="11">11. Added to all theſe difficulties, our buſineſs it ſelf was ſo voluminous, and conſiſted of ſo many parts, that an
+<pb n="4" facs="tcp:135319:4"/>exact Scrutiny into all the particulars could not have been made in a much longer time than we were confin'd to; but ſuch an account, as under theſe diſadvantages we were able to acquire, we do with all humility lay before your Honours.</p>
+            <p n="12">12. The Perſons outlawed in <hi>England</hi> ſince the 13th day of <hi>February,</hi> 1688, on account of the late Rebellion here, amount in number to 75, and in <hi>Ireland</hi> to 3921, all which, with their Additions, and Counties in which they were Outlawed, appear in a Book delivered in with this Report, <hi>N.</hi> 1.</p>
+            <p n="13">13. The Eſtates that the ſaid perſons, or any of them were poſſeſſed of, or intereſted in, either in Law or E<g ref="char:EOLhyphen"/>quity, ſince the 13th day of <hi>February</hi> 1688, that came to our knowledg; together with the Proprietors names, the number of Acres, the County and Barony in which they lye, the value of them <hi>per annum,</hi> and the total value, appear in a Book delivered in with this Report, <hi>N.;</hi> 2.</p>
+            <p n="14">14. But the groſs number of all Acres belonging to Forfeiting Perſons in each County, the yearly and total value (eſteeming a Life at 6 years purchaſe, and an In<g ref="char:EOLhyphen"/>heritance at 13 years; which we apprehend to be at this time the value of the Lands of this Kingdom) appear to be as follows, <hi>viz.</hi>
+               <table>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label" cols="2">
+                        <hi>Acres profitable.</hi>
+                     </cell>
+                     <cell role="label" cols="3">
+                        <hi>value per Ann.</hi>
+                     </cell>
+                     <cell role="label" cols="3">
+                        <hi>value total.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label">
+                        <hi>a.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>r.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>l.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>s.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>d.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>l.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>s.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>In the County of <hi>Dublin</hi>
+                     </cell>
+                     <cell>34536</cell>
+                     <cell> </cell>
+                     <cell>16061</cell>
+                     <cell>6</cell>
+                     <cell> </cell>
+                     <cell>208796</cell>
+                     <cell>18</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>In the County of <hi>Meath</hi>
+                     </cell>
+                     <cell>92452</cell>
+                     <cell>1</cell>
+                     <cell>31546</cell>
+                     <cell>4</cell>
+                     <cell>6</cell>
+                     <cell>410100</cell>
+                     <cell>18</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>In the County of <hi>Weſtmeath</hi>
+                     </cell>
+                     <cell>58083</cell>
+                     <cell>1</cell>
+                     <cell>14633</cell>
+                     <cell>12</cell>
+                     <cell>6</cell>
+                     <cell>190237</cell>
+                     <cell>2</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>In the County of <hi>Kildare</hi>
+                     </cell>
+                     <cell>44281</cell>
+                     <cell>1</cell>
+                     <cell>16551</cell>
+                     <cell>18</cell>
+                     <cell>6</cell>
+                     <cell>215175</cell>
+                     <cell> </cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>In the County of <hi>Catherlogh</hi>
+                     </cell>
+                     <cell>26303</cell>
+                     <cell> </cell>
+                     <cell>7913</cell>
+                     <cell>11</cell>
+                     <cell>6</cell>
+                     <cell>95872</cell>
+                     <cell>2</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>In the County of <hi>Wicklow</hi>
+                     </cell>
+                     <cell>18164</cell>
+                     <cell> </cell>
+                     <cell>2719</cell>
+                     <cell>3</cell>
+                     <cell> </cell>
+                     <cell>35348</cell>
+                     <cell>19</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>In the County of <hi>Wexford</hi>
+                     </cell>
+                     <cell>55882</cell>
+                     <cell>2</cell>
+                     <cell>7551</cell>
+                     <cell>10</cell>
+                     <cell>6</cell>
+                     <cell>98169</cell>
+                     <cell>16</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>In the Queen's County</cell>
+                     <cell>22657</cell>
+                     <cell> </cell>
+                     <cell>5002</cell>
+                     <cell>8</cell>
+                     <cell>9</cell>
+                     <cell>65031</cell>
+                     <cell>13</cell>
+                     <cell>9</cell>
+                  </row>
+                  <row>
+                     <cell>In the King's County</cell>
+                     <cell>30459</cell>
+                     <cell>3</cell>
+                     <cell>6870</cell>
+                     <cell>18</cell>
+                     <cell> </cell>
+                     <cell>89321</cell>
+                     <cell>14</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>In the County of <hi>Kilkenny</hi>
+                     </cell>
+                     <cell>30152</cell>
+                     <cell>2</cell>
+                     <cell>5243</cell>
+                     <cell>3</cell>
+                     <cell>6</cell>
+                     <cell>68161</cell>
+                     <cell>5</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>In the County of <hi>Longford</hi>
+                     </cell>
+                     <cell>2067</cell>
+                     <cell>2</cell>
+                     <cell>348</cell>
+                     <cell>9</cell>
+                     <cell>9</cell>
+                     <cell>4530</cell>
+                     <cell>6</cell>
+                     <cell>9</cell>
+                  </row>
+                  <row>
+                     <cell>In the C. of <hi>Lowth</hi> and 'T. of <hi>Drogheda</hi>
+                     </cell>
+                     <cell>22508</cell>
+                     <cell> </cell>
+                     <cell>6331</cell>
+                     <cell>11</cell>
+                     <cell> </cell>
+                     <cell>82310</cell>
+                     <cell>3</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>In the County of <hi>Cork</hi>
+                     </cell>
+                     <cell>244320</cell>
+                     <cell> </cell>
+                     <cell>32133</cell>
+                     <cell>12</cell>
+                     <cell>6</cell>
+                     <cell>417737</cell>
+                     <cell>2</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>In the County of <hi>Kerry</hi>
+                     </cell>
+                     <cell>90146</cell>
+                     <cell> </cell>
+                     <cell>3652</cell>
+                     <cell>11</cell>
+                     <cell>9</cell>
+                     <cell>47483</cell>
+                     <cell>12</cell>
+                     <cell>9</cell>
+                  </row>
+                  <pb n="5" facs="tcp:135319:4"/>
+                  <row>
+                     <cell>In the County of <hi>Clare</hi>
+                     </cell>
+                     <cell>72246</cell>
+                     <cell> </cell>
+                     <cell>12060</cell>
+                     <cell>17</cell>
+                     <cell> </cell>
+                     <cell>156791</cell>
+                     <cell>1</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>In the County of <hi>Waterford</hi>
+                     </cell>
+                     <cell>21343</cell>
+                     <cell> </cell>
+                     <cell>4190</cell>
+                     <cell>10</cell>
+                     <cell> </cell>
+                     <cell>54476</cell>
+                     <cell>10</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>In the County of <hi>Limerick</hi>
+                     </cell>
+                     <cell>14882</cell>
+                     <cell>3</cell>
+                     <cell>4728</cell>
+                     <cell>10</cell>
+                     <cell>6</cell>
+                     <cell>61470</cell>
+                     <cell>10</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>In the County of <hi>Tipperary</hi>
+                     </cell>
+                     <cell>31960</cell>
+                     <cell>3</cell>
+                     <cell>8888</cell>
+                     <cell>12</cell>
+                     <cell> </cell>
+                     <cell>115552</cell>
+                     <cell>2</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>In the County of <hi>Gallway</hi>
+                     </cell>
+                     <cell>60825</cell>
+                     <cell> </cell>
+                     <cell>10225</cell>
+                     <cell>4</cell>
+                     <cell> </cell>
+                     <cell>83528</cell>
+                     <cell>19</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>In the County of <hi>Roſcommon</hi>
+                     </cell>
+                     <cell>28933</cell>
+                     <cell> </cell>
+                     <cell>5808</cell>
+                     <cell>15</cell>
+                     <cell> </cell>
+                     <cell>69767</cell>
+                     <cell>2</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>In the County of <hi>Mayo</hi>
+                     </cell>
+                     <cell>19294</cell>
+                     <cell> </cell>
+                     <cell>3186</cell>
+                     <cell>5</cell>
+                     <cell>6</cell>
+                     <cell>37598</cell>
+                     <cell>3</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>In the County of <hi>Sligoe</hi>
+                     </cell>
+                     <cell>5562</cell>
+                     <cell>2</cell>
+                     <cell>998</cell>
+                     <cell>17</cell>
+                     <cell>6</cell>
+                     <cell>12985</cell>
+                     <cell>7</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>In the County of <hi>Antrim</hi>
+                     </cell>
+                     <cell>10103</cell>
+                     <cell>3</cell>
+                     <cell>1944</cell>
+                     <cell>18</cell>
+                     <cell>6</cell>
+                     <cell>25284</cell>
+                     <cell> </cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>In the County of <hi>Down</hi>
+                     </cell>
+                     <cell>9079</cell>
+                     <cell> </cell>
+                     <cell>1016</cell>
+                     <cell>6</cell>
+                     <cell> </cell>
+                     <cell>13212</cell>
+                     <cell>4</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>In the County of <hi>Ardmagh</hi>
+                     </cell>
+                     <cell>4962</cell>
+                     <cell> </cell>
+                     <cell>688</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>7644</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>In the County of <hi>Cavan</hi>
+                     </cell>
+                     <cell>3830</cell>
+                     <cell>1</cell>
+                     <cell>478</cell>
+                     <cell>12</cell>
+                     <cell>6</cell>
+                     <cell>6222</cell>
+                     <cell>2</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>In the County of <hi>Monaghan</hi>
+                     </cell>
+                     <cell>3832</cell>
+                     <cell> </cell>
+                     <cell>558</cell>
+                     <cell>16</cell>
+                     <cell> </cell>
+                     <cell>7264</cell>
+                     <cell>8</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>In the County of <hi>Fermanagh</hi>
+                     </cell>
+                     <cell>1945</cell>
+                     <cell> </cell>
+                     <cell>389</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>5057</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+               </table>
+            </p>
+            <p>All theſe Lands in the ſeveral Counties aforeſaid, as far as we can reckon by Acres, being added together make 1060792 Acres, worth <hi>per an.</hi> 211623 <hi>l.</hi> 6 <hi>s.</hi> 3 <hi>d.</hi> value total 2685130 <hi>l.</hi> 5 <hi>s.</hi> 9 <hi>d.</hi> (beſides the ſeveral De<g ref="char:EOLhyphen"/>nominations in the ſaid ſeveral Counties, to which no number of Acres can be added, by reaſon of the imper<g ref="char:EOLhyphen"/>fection of the Surveys) which we humbly repreſent to your Honours as the groſs value of all the Lands for<g ref="char:EOLhyphen"/>feited in <hi>Ireland,</hi> ſince the 13th day of <hi>February</hi> 1688.</p>
+            <p n="15">15. Next we think it our duty to acquaint your Ho<g ref="char:EOLhyphen"/>nours, what proportions of theſe Lands have been re<g ref="char:EOLhyphen"/>ſtored to the old Proprietors, by virtue of the Articles of <hi>Limerick</hi> and <hi>Gallway,</hi> and by his Majeſty's favour.</p>
+            <p n="16">16. Three Letters, one from her late Majeſty Queen <hi>Mary,</hi> of ever bleſſed Memory, dated the 15th of <hi>March</hi> 1691/2; to the Right Honourable the Lord <hi>Sdn-y,</hi> Sir <hi>Charles Porter</hi> Knight, and <hi>Thomas</hi> Lord <hi>C-n-ngs-by,</hi> then Lords Juſtices, and Chief Governours of this Kingdom; one other Letter from her ſaid late Majeſty, dated the 6th day of <hi>May,</hi> 1693, to the ſaid Lord Viſcount <hi>S-dn-y,</hi> then Lord Lieutenant, and General Governour of this Kingdom; and to the Privy Council there for the time being; and one other Letter from his Majeſty, dated the 24th day of <hi>May,</hi> 1694, to the Right Honourable
+<pb n="6" facs="tcp:135319:5"/>
+               <hi>Henry</hi> Lord <hi>C-pel,</hi> Sir <hi>Cyril Wich</hi> Knight, and <hi>William Duncombe</hi> 
+               <abbr>Eſq</abbr> then Lords Juſtices of this Kingdom; and to the Privy Council there for the time being, were ſeve<g ref="char:EOLhyphen"/>rally ſent unto them; empowering them to hear and de<g ref="char:EOLhyphen"/>termine the Claims of all perſons pretending to be within the Articles of <hi>Limerick</hi> and <hi>Gallway:</hi> and in purſuance of the ſaid Letters, 491 perſons were adjudged within the Articles aforeſaid. The names of which perſons, with their Additions, and times of their Adjudications, ap<g ref="char:EOLhyphen"/>pear in a Book delivered in with this Report, N.3.</p>
+            <p n="17">17. Afterwards, a Commiſſion dated the 25th day of <hi>February,</hi> in the 8th year of his Majeſty's Reign, paſſed under the great Seal of <hi>Ireland,</hi> impowering the Judges of the ſeveral Courts here, or any five of them, to hear and determine the Claims aforeſaid: And in purſuance of that Commiſſion, 792 perſons were adjudged within the Articles aforeſaid. The names of which perſons, with their Additions, and the times of their Adjudica<g ref="char:EOLhyphen"/>tions, appear in a Book delivered in with this Report, N 4.</p>
+            <p n="18">18. The Eſtates that the perſons have been reſtored to by virtue of their Adjudications, contain 233106 Acres of Land, amounting in yearly value to 55763 <hi>l.</hi> 6 <hi>s.</hi> 6 <hi>d.</hi> value total 724923 <hi>l.</hi> 4 <hi>s.</hi> 6 <hi>d.</hi> The particular number of Acres belonging to perſons adjudged, the County and Barony in which they lye, with the yearly value, and what the whole Intereſt is worth, appears in the Book N. 2.</p>
+            <p n="19">19. And here we preſume not to judg, whether the Letters from his Majeſty, or the late Queen, to the Lords Juſtices, did give them any legal authority to ſummon the Subjects from all parts of the Kingdom, give Oaths, adjudg without Jury, and levy Money under the name of Fees; (we finding no Act of Parliament to warrant the ſame) which we humbly ſubmit to your great Wiſ<g ref="char:EOLhyphen"/>dom.</p>
+            <pb n="7" facs="tcp:135319:5"/>
+            <p n="20">20. Further, we think it neceſſary to inform your Honours, that the Fees in the ſaid Courts were ſo extra<g ref="char:EOLhyphen"/>vagant, that Mr. <hi>Palmer</hi> (who acted as Regiſter in the right of Mr. <hi>Poultney,</hi> and divided the profits with him) demanded of Mr. <hi>Luke Dillon,</hi> for the Fees of his Fa<g ref="char:EOLhyphen"/>thers Adjudication, eighty ſix pounds; and Mr. <hi>Steel,</hi> Cryer of the Court, fifteen pounds more. Nor could Mr. <hi>Dillon</hi> get out the order to reverſe his Fathers Out<g ref="char:EOLhyphen"/>lawry till he had paid fifty two pounds in ready Money to Mr. <hi>Palmer,</hi> and gave him his Bond for fourteen pounds more; and had paid Mr. <hi>Steel</hi> five pounds, beſides ten pounds which he had paid Mr. <hi>Palmer</hi> for Orders; the Cauſe being continued in the Court near two years. Nor was this a ſingle caſe, for many more have paid great Summs of Money on the like account, the charge of entring a Claim only before we acted in our Commiſſion being near five pounds, tho by expreſs words in the Articles of <hi>Limerick,</hi> no perſon ought to pay any Fees, but to writing Clerks.</p>
+            <p n="21">21. We may add to this, that the proceedings of the Court of Claims are almoſt univerſally complained of, and we fear with too much reaſon. Some perſons having been adjudged without poſting their Claims, o<g ref="char:EOLhyphen"/>thers within a day or two after, before the Kings Coun<g ref="char:EOLhyphen"/>cel or Witneſſes could be ready; which was contrary to the Rules of the Court it ſelf, that required fourteen days between the poſting every Claim, and the Adjudi<g ref="char:EOLhyphen"/>cation. It was alſo obſervable, that if any perſon would diſclaim his Eſtate, he met with very little difficulty in being adjudged, tho afterward there could be no ob<g ref="char:EOLhyphen"/>ſtacle in the reverſing his Outlawry; and conſequently to be reſtored to his Eſtate. In general, it ſeems to us, that there have been great miſcarriages in the ſaid Court, and that in many caſes the Articles of <hi>Li<g ref="char:EOLhyphen"/>merick</hi> and <hi>Gallway</hi> have been expounded too benefi<g ref="char:EOLhyphen"/>cially in favour of perſons Outlawed, and often on the oath of one witneſs, who, we humbly conceive, can<g ref="char:EOLhyphen"/>not
+<pb n="8" facs="tcp:135319:6"/>not be convicted of Perjury, either by common or Statute Law. By this means, we apprehend a great many perſons have been reſtored to their Eſtates, that upon review would be found to belong to his Majeſty. To come to a more particular knowledg of which, we ſent to the ſaid Mr. <hi>Palmer</hi> for the Minutes of the Adjudications; but he having taken them in Short<g ref="char:EOLhyphen"/>hand only, and never ſince tranſcribed them, we could not get ſuch an account, as was ſit to lay be<g ref="char:EOLhyphen"/>fore your Honours. We ſhall only take notice of one thing that ſeems to us very extraordinary, that more perſons were adjudged within Articles ſince the Com<g ref="char:EOLhyphen"/>mencement of our Enquiry, than had been ſince the making of the ſaid Articles.</p>
+            <p n="22">22. Next we are to acquaint your Honours what E<g ref="char:EOLhyphen"/>ſtates have been reſtored to the old Proprietors, by Re<g ref="char:EOLhyphen"/>verſal of Outlawries, or his Majeſty's Pardon.</p>
+            <p n="23">23. The Reverſals are of two ſorts, ſuch as have been in purſuance of Adjudications, all markt in N. 3 and 4, in diſtinct Columns for that purpoſe: the Eſtates reſtored by Reverſals are already computed under the conſideration of perſons adjudged.</p>
+            <p n="24">24. The other ſort are ſuch as have been reverſed by his Majeſty's or the late Queen's Letters, or Orders to the Lords Juſtices; which with all Pardons, and the conſiderations inducing the ſame, paſt ſince the De<g ref="char:EOLhyphen"/>feat at the <hi>Boyne,</hi> amounting to ſixty five, appear in a Book delivered in with this Report, N. 5. The Eſtates reſtored to the ſeveral Perſons pardoned, or that have their Outlawries reverſed by his Majeſty's favour, contain 74733 Acres, worth <hi>per An.</hi> 20066 <hi>l.</hi> 8 <hi>s.</hi> 3 <hi>d.</hi> value total 260863 <hi>l.</hi> 7 <hi>s.</hi> 3 <hi>d.</hi> The particulars thereof, what Eſtate belongs to each perſon, in what County and Barony it lies, what is the yearly and total value, appear in the Book N. 2.</p>
+            <p n="25">25. And here we think it proper to take notice to your Honours, that as well by the general report of
+<pb n="9" facs="tcp:135319:6"/>the Country, as by ſeveral Obſervations of our own, it appears probable to us, that many of the perſons a<g ref="char:EOLhyphen"/>foreſaid, have obtained his Majeſty's Favour, by gra<g ref="char:EOLhyphen"/>tifications to ſuch perſons as have abuſed his Majeſty's Royal Compaſſion. But when we touch'd on this ſub<g ref="char:EOLhyphen"/>ject, we found difficulties too great to be overcome, moſt of theſe matters being tranſacted in private, and with Perſons out of this Kingdom; however, we ſhall lay before your Honours ſome inſtances, where it ap<g ref="char:EOLhyphen"/>pears to us, that Mony has been given to reſtore perſons forfeiting to their Eſtates.</p>
+            <p n="26">26. The Right Honourable the Lord <hi>B-ll-w,</hi> releaſed a Statute Staple of 1000 <hi>l.</hi> principal Mony, and ſeven or eight hundred pounds Intereſt to the Lord <hi>R-by</hi> (which was due from Sir <hi>William W-ntw-rth,</hi> Father to the preſent Lord <hi>R-by,</hi> to the Lord <hi>D-l-ke,</hi> Father to the preſent Lord <hi>B-ll-w</hi>) in conſideration that he would uſe his Intereſt with his Majeſty to procure his Pardon, which he did accordingly, and his Pardon ſoon after paſſed; he alſo releaſed to the Lord <hi>R-mny,</hi> all the profits of his Eſtate, which his Lordſhip had enjoyed near three years, amounting to about as many thouſand pounds, in conſideration his Lordſhip would not give him any moleſtation in paſſing his Pardon.</p>
+            <p n="27">27. <hi>John Kerdiff,</hi> of <hi>Kerdiffſtown</hi> in the County of <hi>Dublin</hi> Gent. gave to Mrs. <hi>Margaret <g ref="char:V">Ʋ</g>niack</hi> 200 <hi>l.</hi> or thereabouts, to make uſe of her Intereſt with the Lord <hi>R-mny,</hi> to obtain his Majeſty's Letter, to have his Outlawry reverſed; which was accordingly done, the the particular caſe of this Man deſerved Compaſ<g ref="char:EOLhyphen"/>ſion.</p>
+            <p n="28">28. Sir <hi>John Morris</hi> paid to Mr. <hi>Richard <g ref="char:V">Ʋ</g>niack</hi> five hundred pounds, whereof three hundred pounds were paid to Mrs. <hi>
+                  <g ref="char:V">Ʋ</g>niack,</hi> for her Intereſt in the Lord <hi>R-mny</hi> to procure his Pardon, which was accordingly done.</p>
+            <pb n="10" facs="tcp:135319:7"/>
+            <p n="29">29. <hi>Henry Morris</hi> 
+               <abbr>Eſq</abbr> gave one hundred pounds to Mrs. <hi>Margaret <g ref="char:V">Ʋ</g>niack</hi> to obtain his Majeſty's pardon, which was accordingly done.</p>
+            <p n="30">30. <hi>John Huſſey</hi> of <hi>Leiſtip,</hi> 
+               <abbr>Eſq</abbr> upon his being in<g ref="char:EOLhyphen"/>formed by Mr. <hi>Bray</hi> and Mr. <hi>Roſcoe,</hi> Agents to the Lord <hi>Athl-ne,</hi> that he would not get his Outlawry re<g ref="char:EOLhyphen"/>verſed, without giving him a general Releaſe of all de<g ref="char:EOLhyphen"/>mands to the Lord <hi>Athl-ne,</hi> he did it, whereby a Mort<g ref="char:EOLhyphen"/>gages of three hundred pounds, which he had upon the Lord <hi>L-mr-ck</hi>'s Eſtate, then in grant to the Lord <hi>Athl-ne,</hi> was releaſed; who appeared not to us to have known of the ſaid Mortage, or to have had any benefit thereby.</p>
+            <p n="31">31. <hi>Edmund Roch,</hi> Gent. gave Mr. <hi>Richard Darling,</hi> Agent to the Lord <hi>R-mny,</hi> five hundred pounds, for his Intereſt in procuring his pardon, which by the means of the Lord <hi>R-mny</hi> was obtained (as we be<g ref="char:EOLhyphen"/>lieve.) But the ſaid <hi>Roch</hi> was outlawed on the Sta<g ref="char:EOLhyphen"/>tute of Foreign Treaſons, tho never out of the King<g ref="char:EOLhyphen"/>dom.</p>
+            <p n="32">32. <hi>John Bourke</hi> 
+               <abbr>Eſq</abbr> commonly called Lord <hi>B-ph-n,</hi> agreed to pay 750 <hi>l.</hi> to Mr. <hi>Andrew Card,</hi> for the uſe of the Lord <hi>Alb-m-rle,</hi> in conſideration he would pro<g ref="char:EOLhyphen"/>cure his Majeſty's Letter to have him reſtored to his Eſtate and Blood; three hundred pounds of the ſaid Money was to be paid when he was reſtored to his Eſtate, and the reſidue ſome time after. In purſuance of the ſaid Agreement, a Letter was ſent to the Lords Juſtices, to be communicated to the Commiſſioners of the Court of Claims, in favour of the Lord <hi>B-ph-n,</hi> in order to have him adjudged within the Articles of <hi>Gallway;</hi> but nothing being done thereon, it was a<g ref="char:EOLhyphen"/>greed that a Bill ſhould be tranſmitted into <hi>England,</hi> in order to paſs into a Law in <hi>Ireland,</hi> to reſtore the Lord <hi>B-ph-n</hi> to his Eſtate and Blood; the conſideration ſuggeſted in the Bill was to educate his Children in the Proteſtant Religion, and let his Eſtate to Prote<g ref="char:EOLhyphen"/>ſtants.
+<pb n="11" facs="tcp:135319:7"/>It was further provided in the ſaid Bill, that nine thouſand pounds ſhould be raiſed upon the ſaid Eſtate for payment of Debts, and a certain part of the ſaid Eſtate appropriated for the maintenance and proviſion of his Children; but in reality 7500 <hi>l.</hi> of the ſaid Mo<g ref="char:EOLhyphen"/>ney was to be paid to the Earl of <hi>Alb-m-rle,</hi> and the remainder (as we believe) to the perſons concerned in negotiating the ſaid Agreement. This Bill was brought into the Houſe of Commons of <hi>Ireland,</hi> but the Agree<g ref="char:EOLhyphen"/>ment taking wind, and the Houſe reſenting that their Authority ſhould be made uſe of to ſupport ſuch a clandeſtine bargain, and finding ſeveral allegations in the ſaid Bill falſe, they rejected it. Afterwards a new agree<g ref="char:EOLhyphen"/>ment was made, <hi>viz.</hi> that there ſhould be a Grant to the Lord <hi>R-ſs</hi> in truſt, that the Money to be ad<g ref="char:EOLhyphen"/>vanced for procuring the ſaid Grant, ſhould be firſt raiſed out of the Eſtate, and next, that the Profits ſhould be applied to the payment of Debts, and after to the uſe of the Family of <hi>Clanrickard.</hi> In purſuance of the Agreements aforeſaid, a Letter was procured from his Majeſty, and three thouſand pounds paid to <hi>Thomas Brodrick</hi> 
+               <abbr>Eſq</abbr> for the benefit of the Lord <hi>Alb-m-rle.</hi>
+            </p>
+            <p n="33">33. Having now laid before your Honours an ac<g ref="char:EOLhyphen"/>count of all the Eſtates belonging to perſons outlawed ſince the 13th day of <hi>February</hi> 1688. and alſo what Eſtates have been ſince reſtored by Articles, and what by his Majeſty's favour, we will proceed to acquaint your Honours what Grants have been made, and alſo what Cuſtodiums are yet in being of any of the ſaid Eſtates, and to whom.</p>
+            <p n="34">34. There have paſt ſince the Battle of the <hi>Boyne</hi> under the Great Seal of <hi>Ireland,</hi> 76 Grants and Cu<g ref="char:EOLhyphen"/>ſtodiums; a Book whereof, with the dates of the Letters Patents, and the Conſiderations, we have de<g ref="char:EOLhyphen"/>livered in with the Report <hi>N.</hi> 6. Some of the moſt conſiderable Grants we here particularly lay before
+<pb n="12" facs="tcp:135319:8"/>your Honours, the number of Acres and Conſidera<g ref="char:EOLhyphen"/>tions.</p>
+            <p n="35">35. To the Right Honourable the Lord <hi>R-mny</hi> 3 Grants now in being, containing 49517 Acres, in conſideration of Services done.</p>
+            <p n="36">36. To the Right Honourable the Earl of <hi>Alb-m-rle</hi> 2 Grants now in being, containing 108633 Acres in Poſſeſſion and Reverſion, in conſideration of ſervices done.</p>
+            <p n="37">37. To <hi>William B-nt-nck</hi> 
+               <abbr>Eſq</abbr> commonly called Lord <hi>W--dſt-ck,</hi> 135820 Acres of Land; no particular conſi<g ref="char:EOLhyphen"/>deration mentioned in the Grant.</p>
+            <p n="38">38. To the Right Honourable the Earl of <hi>Athl-ne</hi> 2 Grants, containing 26480 Acres, in conſideration of ſervices done in the reduction of <hi>Ireland.</hi>
+            </p>
+            <p n="39">39. To the Right Honourable the Earl of <hi>G-llw-y</hi> one Grant, containing 36148 Acres, in conſideration of ma<g ref="char:EOLhyphen"/>ny good and faithful ſervices by him performed.</p>
+            <p n="40">40. To the Right Honourable the Earl of <hi>R-chf-rt</hi> 2 Grants, containing 39871 Acres, in conſideration of Services done.</p>
+            <p n="41">41. To the Marquiſs of <hi>P-z-r</hi> 2 Grants, containing 30512 Acres, in conſideration of ſervices done.</p>
+            <p n="42">42. To the Right Honourable the Lord <hi>C-n-ngsby</hi> 5966 Acres, with ſeveral Chiefrys, Tythes, and many Houſes in the City of <hi>Dublin,</hi> with 1000 <hi>l.</hi> Mortgage, in conſideration of Services done.</p>
+            <p n="43">43. To the Right Honourable the Lord <hi>M-ntj-y</hi> 11070 Acres for 21 years, in conſideration of his Services done in the War of <hi>Ireland,</hi> the loſſes he ſuffered in his Eſtate, the Impriſonment of his Father in the <hi>Baſtile,</hi> and his being kill'd in the Battle of <hi>Steynkirk.</hi>
+            </p>
+            <p n="44">44. To the Honourable <hi>Thomas Keightly</hi> 
+               <abbr>Eſq</abbr> 2 Grants, containing 12381 Acres for 99 years, as a portion for his Daughter Mrs. <hi>Kaetherine Keightly,</hi> who was a dependant on her late Majeſty Q. <hi>Mary</hi> of ever bleſſed memory,
+<pb n="13" facs="tcp:135319:8"/>and in conſideration of a penſion of 400 <hi>l. per ann.</hi> and his loſſesin the War.</p>
+            <p n="45">45. To Colonel <hi>Guſtavus Hamilton</hi> 5382 Acres, where<g ref="char:EOLhyphen"/>of 1900 are no part of the Forfeitures; in conſideration of his great and early ſervice in the War of <hi>Ireland,</hi> his wading through the <hi>Shannon,</hi> and ſtorming the Town of <hi>Athlone,</hi> at the head of the <hi>Engliſh</hi> Granadeers.</p>
+            <p n="46">46. To Dr. <hi>John Leſly</hi> 16077 Acres, in conſideration of his early ſervice in the War of <hi>Ireland,</hi> his great ex<g ref="char:EOLhyphen"/>pence in raiſing and arming conſiderable numbers of men, and fighting at the head of them in ſeveral Engage<g ref="char:EOLhyphen"/>ments.</p>
+            <p n="47">47. To <hi>Thomas Pendergaeſt</hi> 
+               <abbr>Eſq</abbr> now Sir <hi>Thomas Pen<g ref="char:EOLhyphen"/>dergaſt</hi> Baronet, 2 Grants, containing 7082 Acres, upon the moſt valuable conſideration of his diſcovering a moſt barbarous and bloody Conſpiracy to Aſſaſſinate the King's Moſt Excellent Majeſty, to deſtroy the Liberties of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> and in conſequence the Proteſtant Religion through<g ref="char:EOLhyphen"/>out <hi>Europe.</hi>
+            </p>
+            <p n="48">48. To Mr. <hi>John Baker</hi> 1647 Acres, in conſideration of the great and memorable ſervices his Father Colonel <hi>Henry Baker</hi> performed in the defence of the City of <hi>Londonderry.</hi>
+            </p>
+            <p n="49">49. To <hi>Thomas Corry</hi> 
+               <abbr>Eſq</abbr> 2 Grants, one of a Mort<g ref="char:EOLhyphen"/>gage of 2000 <hi>l.</hi> in Fee of ſeveral Lands in the County of <hi>Wicklow,</hi> due to Sir <hi>Edward Scott</hi> from the Earl of <hi>T-r-ne;</hi> the other of 1725 Acres. The conſiderations mentioned in the Letters Patents, are, his Houſe being burnt, and his having furniſhed the Gariſon of <hi>Enniskilling</hi> with proviſions and materials to the value of 3000 <hi>l.</hi> at his own expence. But enquiring into the merits of this Gentleman, it appears to us, that he gave no aſſiſtance to the Gariſon of <hi>Enniskilling;</hi> that in the Town of <hi>Enniskilling</hi> he publickly declared, he hop'd to ſee all
+<pb n="14" facs="tcp:135319:9"/>thoſe hang'd that took up Arms for the Prince of <hi>O<g ref="char:EOLhyphen"/>range;</hi> and his Houſe was burnt by the ſaid Gari<g ref="char:EOLhyphen"/>ſon.</p>
+            <p n="50">50. The reſt of the Grants, with the former, appear in the Book <hi>N.</hi> 6. and are comprehended in the general values.</p>
+            <p n="51">51. It is to be obſerved, that all the Acres mentioned in this Report, are meant Plantation Acres, which bear a proportion to <hi>Engliſh</hi> as 441 is to 264.</p>
+            <p n="52">52. It is further to be obſerved, that the Eſtates above<g ref="char:EOLhyphen"/>mentioned do not yield ſo much to the Grantees as they are here valued at: for as moſt of them have abuſed his Majeſty in the real value of their Eſtates, ſo their Agents have impoſed on them, and have either ſold or let the greateſt part of them at great under value.</p>
+            <p n="53">53. We are further to take notice, that moſt of the Lands in the ſeveral Grants aforeſaid, were granted un<g ref="char:EOLhyphen"/>der the <hi>Exchequer</hi> Seal in Cuſtodium for ſmall num<g ref="char:EOLhyphen"/>bers of years, or during pleaſure, either to the preſent Grantees, or other perſons; by which means very little profit of them hath accrued to his Majeſty. The great<g ref="char:EOLhyphen"/>eſt part of the Cuſtodiums are now expired, but thoſe few yet in being, appear in a Book at the lower end of the Grants, <hi>N.</hi> 6.</p>
+            <p n="54">54. In the next place we humbly acquaint your Ho<g ref="char:EOLhyphen"/>nours with the ſeveral Incumbrances that affect the E<g ref="char:EOLhyphen"/>ſtates forfeited and not reſtored; and here we ſhall take notice of ſuch only as are found by Inquiſition, or have been allowed by his Majeſty's Court of <hi>Exchequer,</hi> moſt of which laſt, have been in purſuance of her late Ma<g ref="char:EOLhyphen"/>jeſty's Letter, dated  <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap>  to the Lords Juſtices of <hi>Ireland,</hi> which required, that all Proteſtants ſhould try the validity of their Incumbrances in the moſt ſpeedy manner, without ſubjecting them to dilatory or chargea<g ref="char:EOLhyphen"/>ble methods.</p>
+            <pb n="15" facs="tcp:135319:9"/>
+            <p n="55">55. All the Statutes, Judgments, Mortgages, or other Debts, which appear to us as aforeſaid to affect the E<g ref="char:EOLhyphen"/>ſtates not reſtored, amount to 161936 <hi>l.</hi> 15 <hi>s.</hi> 6 <hi>d.</hi> the particulars whereof appear in a Book delivered in with this Report, <hi>N.</hi> 7. The reality of the ſaid incumbrances, which of them have been made upon a valuable conſi<g ref="char:EOLhyphen"/>deration, and what have been ſince diſcharged by Re<g ref="char:EOLhyphen"/>ceipt of Rents, or otherwiſe, we have had neither time nor opportunity duly to examine, but we humbly con<g ref="char:EOLhyphen"/>ceive there are many deductions to be made upon the fol<g ref="char:EOLhyphen"/>lowing conſiderations.</p>
+            <p n="56">56. In all Judgments, and Statutes, we have ſet down the Penal Sums, not being able to know what Intereſt is due upon the ſeveral particulars.</p>
+            <p n="57">57. It appears probable to us, that oftentimes the Judg<g ref="char:EOLhyphen"/>ment and Mortgage is for the ſame Debt.</p>
+            <p n="58">58. It is probable, that many of the ſaid Judgments are only for performance of Covenants, and the defeazances remain in the hands of the Covenanters.</p>
+            <p n="59">59. In many caſes, Proteſtants and Papiſts have been equally bound, and the whole Debt is demanded on the Lands of the forfeited perſons, tho there may be other ſecurity.</p>
+            <p n="60">60. It does appear that many Deeds and Copies of Judgments were produced to the Juries in ſeveral Enqui<g ref="char:EOLhyphen"/>ries, and found without any proof of the execution of ſuch Deeds, or the conſiderations therein expreſ<g ref="char:EOLhyphen"/>ſed.</p>
+            <p n="61">61. It is probable that in many caſes the Statutes and Judgments have been ſatisfied, and do not appear diſ<g ref="char:EOLhyphen"/>charged upon Record.</p>
+            <p n="62">62. Many incumbrances have been bought up by the Grantees, their Agents, and Under-purchaſers, and oftentimes at ſmall values, and are kept on foot to cover the Eſtates, tho probably they might have
+<pb n="16" facs="tcp:135319:10"/>over-paid themſelves by the Preception of Profits.</p>
+            <p n="63">63. Many perſons have been put in poſſeſſion of the Lands incumbred, by virtue of her late Majeſty's Letter, and have received all or a great part of their Debts.</p>
+            <p n="64">64. It is probable, that ſeveral of the Incumbrances have been taken in truſt for forfeiting perſons, and many others were entred into covenouſly.</p>
+            <p n="65">65. In concluſion it appears to us, that all the con<g ref="char:EOLhyphen"/>trivances poſſible were made uſe of by ſome of the Grantees, or their Agents, to make the incumbrances ap<g ref="char:EOLhyphen"/>pear great, tho we believe if they were duly enquired into, they would be found conſiderable, but that a great part of them might have been paid off by the preception of Profits before this time: however we humbly con<g ref="char:EOLhyphen"/>ceive that at preſent they will be much more than diſ<g ref="char:EOLhyphen"/>charged, by the perſonal and other Forfeitures not be<g ref="char:EOLhyphen"/>fore valued, which we now humbly lay before your Honours.</p>
+            <p n="66">66. As we informed your Honours before, ſoon after the Battel of the <hi>Boyne,</hi> Commiſſioners under the Great Seal of <hi>Ireland</hi> were appointed, who had power to ſeize and diſpoſe of the forfeited Goods and Chattels to his Majeſty's uſe; theſe appointed Sub-Commiſſioners in the ſeveral Counties then in his Majeſty's Poſ<g ref="char:EOLhyphen"/>ſeſſion, who made returns of great quantities of Goods and Chattels, which they valued at 13552 <hi>l.</hi> but at ſo moderate computations, that every Horſe was va<g ref="char:EOLhyphen"/>lued at twenty ſhillings, every Cow or Ox at fifteen ſhillings, Sheep at half a Crown a piece, and other things proportionably. So that it appears very proba<g ref="char:EOLhyphen"/>ble to us, that if the ſaid goods had been diſpoſed of to the beſt advantage, they might have yielded between two and three hundred thouſand pounds; but before that could be done, upon repreſentation of the then
+<pb n="17" facs="tcp:135319:10"/>Commiſſioners of the Revenue, the Power of diſpoſing by the ſaid Commiſſioners of Forfeitures, was ſuperſeded by a Letter from his Majeſty within nine days after the granting their Commiſſion, and placed in the Commiſ<g ref="char:EOLhyphen"/>ſioners of the Revenue: By this means ſo much time was loſt before their Books and Goods ſeiz'd by the Sub-Commiſſioners could be transferred to the Officers of the Revenue, that the greateſt part of them were either em<g ref="char:EOLhyphen"/>bezeled by the Sub-Commiſſioners of Forfeitures, or the Commiſſioners of the Revenue; or elſe plundred by the Army at their return into Winter Quarters: ſo that it does not appear to us, that there was ever accounted for to his Majeſty above the value of 44000 <hi>l.</hi> Beſides theſe, there were great quantities of other Goods in the Inqui<g ref="char:EOLhyphen"/>ſitions, which we do not find ever came to his Majeſties uſe, and many more were ſeized by private Men. In<g ref="char:EOLhyphen"/>deed the Plunder at that time was ſo general, that ſome Men in conſiderable Employments were not free from it, which ſeems to us a very great reaſon why this matter has not been more narrowly ſearch't into; particularly the Lord <hi>C-n-ngsby</hi> ſeized a great many Black Cattle, to the number of Three Hundred or thereabouts, be<g ref="char:EOLhyphen"/>ſides Horſes that were left in the Park after the Battle of the <hi>Boyne,</hi> and which we do not find ever were ac<g ref="char:EOLhyphen"/>counted for to his Majeſty; he alſo ſeized all the Plate and Goods in the Houſe of Sir <hi>Michael Creagh</hi> (Lord Mayor of the City of <hi>Dublin</hi> for the year 1689) which are generally thought to amount to a great value, but this laſt is ſaid to be by Grant from his Majeſty; there were ſeveral Rich Goods and other Houſehold<g ref="char:EOLhyphen"/>ſtuff delivered by the Commiſſioners of the Revenue, to the then Lords Juſtices, the Lord <hi>S-dn-y</hi> and Lord <hi>C-n-ngsby,</hi> which we do not find were ever return<g ref="char:EOLhyphen"/>ed accounted for to his Majeſty, or left in the Caſtle at their departure from the Government.</p>
+            <p n="67">67. Farther, there were ſeveral other quantities deli<g ref="char:EOLhyphen"/>vered by order of the Commiſſioners to Sir <hi>Charles Por<g ref="char:EOLhyphen"/>ter,</hi>
+               <pb n="18" facs="tcp:135319:11"/>Major General <hi>Kirk,</hi> and others, which have not been returned; and a great deal more by the Gene<g ref="char:EOLhyphen"/>ral Officers of the Army, which 'tis ſaid his Majeſty has ſince diſcharged.</p>
+            <p n="68">68. If we may believe the general reports of the Country, very many perſons have made their advanta<g ref="char:EOLhyphen"/>ges of theſe Forfeitures; but the time was ſo diſtant, the Proofs ſo difficult, and withal the hopes of getting any part of them back again ſo remote, that we ra<g ref="char:EOLhyphen"/>ther choſe to proſecute more material enquiries, and therefore can give your Honours no farther information concerning them.</p>
+            <p n="69">69. But ſince the values of the before mentioned Goods and Chattels are ſo uncertain, we make no eſti<g ref="char:EOLhyphen"/>mate of them, but will proceed to take notice of ſome debts due by Judgment, and Statute, and a few Mortgages due to forfeiting Perſons not reſtored; which amount to 120013 <hi>l.</hi> 13 <hi>s.</hi> 10 <hi>d.</hi> as appears in a Book delivered in with this Report N. 8.</p>
+            <p n="70">70. And here it may be obſerved, that theſe Debts are liable to all the objections made againſt the Incum<g ref="char:EOLhyphen"/>brances before mentioned; only with this difference, that as the Incumbrances may be preſumed to be in a great meaſure ſatisfied by the preception of Profits, the Creditors being many of them in Poſſeſſion by her late Majeſties Letter in favour of Proteſtant Creditors, or at leaſt that the full Intereſt has been paid out of the Rents; So in the other, the full Penalty is due, no Intereſt ap<g ref="char:EOLhyphen"/>pearing to be paid ſince the Forfeiture, and therefore we humbly conceive may be taken as ſo much in Diſ<g ref="char:EOLhyphen"/>count againſt Incumbrances.</p>
+            <p n="71">71. And here we crave leave further to obſerve, that almoſt all the ſaid Judgments were found in the Court of Exchequer only; and from a miſtake of our Orders, no return has been made from either of the Courts of Law; by which means we believe many more Debts appearing upon Record to be due to Forfeiting Perſons not reſtored may be omitted.</p>
+            <pb n="19" facs="tcp:135319:11"/>
+            <p n="72">72. There are yet to be computed 297 Houſes in the City of <hi>Dublin,</hi> 36 Houſes in the City of <hi>Cork,</hi> with 226 Houſes Situate in the ſeveral Cities and Towns of this Kingdom, together with 61 Mills, 28 Fairs and Markets, 72 Rectories and Tythes, Chief-rents amounting to 283 <hi>l. per annum,</hi> and ſix Ferries and Fiſheries, lying within the ſeveral Counties and Baronies of this Kingdom; the Forfeitures of Perſons not reſtored: which we value in groſs at 5000 <hi>l.</hi> and place here among the perſonal Forfeitures, towards the diſcharge of Incumbrances; and if we add the Debts due to Forfeiting Perſons (as we humbly conceive) we ſhall fully diſcharge the Incumbrances aforeſaid; and if there were room to apprehend any deficience, yet the Chattels real of perſons comprehended within the Arti<g ref="char:EOLhyphen"/>cles of <hi>Limerick,</hi> which by the conſtruction of the ſaid Articles they were not to be reſtored to, would fully (as we apprehend) make up any defect that might remain after the allowances aforeſaid.</p>
+            <p n="73">73. It appeared to us by our obſervations in the Coun<g ref="char:EOLhyphen"/>try, that a great part of the Lands call'd unprofitable in the Survey (except thoſe in <hi>Kerry,</hi> which we account as nothing) are now profitable Acres, and many of them as good Lands as any of the Kingdom; and tho they are not comprehended within our valuations, yet are in themſelves conſiderable.</p>
+            <p n="74">74. We have computed the forfeited Eſtates according to the preſent value, and the current price of Coin here, were they now to be ſet, without any regard to bene<g ref="char:EOLhyphen"/>ficial Leaſes made before the Forfeitures; and becauſe we found it impoſſible either to come to a reaſonable know<g ref="char:EOLhyphen"/>ledg of the number of them, and which are real and fraudulently ſet up, we think it moſt proper to make a general allowance for the ſame, by way of diſcount on other particulars: and if all the unprofitable
+<pb n="20" facs="tcp:135319:12"/>Acres be caſt in, it may near anſwer the difference of value the now beneficial Leaſes do make from the pre<g ref="char:EOLhyphen"/>ſent intrinſick value excluſive of them.</p>
+            <p n="75">75. And leſt this allowance ſhould be thought inſuf<g ref="char:EOLhyphen"/>ficient, we humbly conceive the Woods of the King<g ref="char:EOLhyphen"/>dom now ſtanding on the Forfeited Eſtates not reſtored, may be worth Sixty thouſand pounds: which we be<g ref="char:EOLhyphen"/>lieve (if thrown in) will anſwer the difference, provi<g ref="char:EOLhyphen"/>ded ſome ſpeedy care be taken to prevent farther waſte.</p>
+            <p n="76">76. But leſt our allowances on the particulars afore<g ref="char:EOLhyphen"/>ſaid ſhould not be eſteemed ſufficient, we throw in all denominations of Lands, to which we could an<g ref="char:EOLhyphen"/>nex no number of Acres, not receiving any light either by the Surveys, Commiſſioners Books, Inquiſi<g ref="char:EOLhyphen"/>tions, or our enquiries in the Country: and becauſe they are quantities of Land that vaſtly differ from one another, both in value and number of Acres, we make no certain eſtimate of them, tho it ſeems very probable to us, that they amount to Seventy or Eighty Thou<g ref="char:EOLhyphen"/>ſand Acres; which we humbly conceive will much more than anſwer all the deficiencies before mentioned.</p>
+            <p n="77">77. And here we ſhall take notice of the general waſte committed on the Forfeited Woods of this King<g ref="char:EOLhyphen"/>dom, particularly on the Woods of Sir <hi>Valentine Brown</hi> in the County of <hi>Kerry,</hi> where to the value of twen<g ref="char:EOLhyphen"/>ty Thouſand Pounds has been cut down and de<g ref="char:EOLhyphen"/>ſtroyed: and the waſte on the Woods of the late Earl of <hi>Cl-nc-rtys</hi> Eſtate, now in Grant to the Lord <hi>W--dst-ck,</hi> is computed at Twenty Seven Thouſand Pounds: And indeed ſo haſty have ſeveral of the Grantees, or their Agents, been in the diſpoſition of the Forfeited Woods, that vaſt numbers of Trees have been cut and ſold for not above ſix pence a piece: and the like waſte is ſtill continuing in many parts of this Kingdom, and particu<g ref="char:EOLhyphen"/>larly at this inſtant, the Right Honourable Sir <hi>John Hely</hi> Lord Chief Juſtice of the Court of Common Pleas here, and <hi>Peter Goodwyn,</hi> joint Purchaſers of the
+<pb n="21" facs="tcp:135319:12"/>Lands of <hi>Feltrim</hi> within ſix miles of <hi>Dublin,</hi> of the Right Honourable the Lord <hi>C-n-ngsby,</hi> are now cutting down the very ornamental rows and Groves about the manſion Houſe: great waſte has been made, and yet is commiting on the Woods of <hi>Oſhaghneſſy</hi> in the County of <hi>Gallway,</hi> pur<g ref="char:EOLhyphen"/>chaſed by <hi>Toby Butler</hi> Eſquire for about 2500 <hi>l.</hi> which is valued to above 12000 <hi>l.</hi> and when we appoin<g ref="char:EOLhyphen"/>ted ſome perſons to view and value the ſaid Woods, the ſaid <hi>Toby Butler</hi> did proſecute them by Indictment for ſo doing.</p>
+            <p n="78">78. Beſides all the forfeitures before mentioned, there are great numbers of perſons guilty of the late Rebellion, and within no Articles, and never proſecuted; and many have appeared on the Exigent, which to this day are continued under Bail; and ſome of them were this laſt Summer Aſſizes tryed and Acquitted: and indeed it does appear to us, that the Freeholders of this King<g ref="char:EOLhyphen"/>dom through length of time, and by contracting new Friendſhip with the <hi>Iriſh,</hi> or by interpurchaſing with one another, but chiefly through a general diſlike of the diſpoſition of the Forfeitures, are ſcarce willing to find any perſons guilty of the late Rebellion, even upon full Evidence.</p>
+            <p n="79">79. By reaſon of this delay of proſecution, many good Eſtates (by the death of Parties) have been loſt to his Majeſty.</p>
+            <p n="80">80. And notwithſtanding all this, it ſeems probable by the multitude of diſcoveries offer'd us, that if right methods were taken, and proper incouragement given, a great Sum of Money might be raiſed out of the for<g ref="char:EOLhyphen"/>feitures that lie concealed.</p>
+            <p n="81">81. There has been ſo great a neglect in the proſecu<g ref="char:EOLhyphen"/>tion of his Majeſties Title, that no Inquiſition went into <hi>Connaught</hi> till the year 1695, which gave the forfeiting perſons time and leiſure to ſet up what incumbrances they pleaſed: and when they were iſſued, the findings were al<g ref="char:EOLhyphen"/>moſt as the Counſel of the forfeiting perſon thought fit.
+<pb n="22" facs="tcp:135319:13"/>And indeed by the great diſproportion of Proteſtants to Papiſts, which is computed at not one to fifty, and ſo very few Proteſtant Freeholders being within moſt Coun<g ref="char:EOLhyphen"/>ties of that Province, ſo little Juſtice is to be had there, that the Province it ſelf ſeems ſcarcely reduced to his Majeſties Obedience: a late inſtance might be given, at the laſt Aſſizes for the County of <hi>Gallway,</hi> where near forty perſons were brought on their Tryals for the late Rebellion, and the majority of the Jury that had them in Charge were Officers in the late King <hi>James</hi>'s Army, and adjudged within Articles, and after that 'twere needleſs to ſay they were all acquitted: Tho by acci<g ref="char:EOLhyphen"/>dent 'twas diſcovered, that one <hi>Kirevan,</hi> one of the perſons then on Tryal, was in actual Rebellion, and an Officer under the Foreman of the Jury, who was ſworn to that Fact; which was a ſurprizing difficulty to the Jury, who not well knowing how to acquit him upon ſo direct a proof, reſolved that the Dice ſhould deter<g ref="char:EOLhyphen"/>mine, and ſo the Jury among themſelves threw the Dice, and the Lot falling upon one Mr. <hi>Pendergaſt,</hi> he did abſent himſelf accordingly, and ſo no Verdict was given on the ſaid Mr. <hi>Kirevan,</hi> who was thereupon bound over to appear the next Aſſizes at <hi>Gallway</hi> to take his Tryal.</p>
+            <p n="82">82. The Houſe of <hi>Clanrickard</hi> have a vaſt Territory within that Province, with few or no Proteſtant Te<g ref="char:EOLhyphen"/>nants thereon, the greateſt part whereof by the Attain<g ref="char:EOLhyphen"/>der of the Lord <hi>B-ph-n</hi> (who is only Tenant for Life) is now veſted in his Majeſty: and we humbly Conceive if proper methods were now taken by ſetting the ſaid Eſtate to Proteſtant Tenants by Leaſes for Lives renewable for ever, 'twould greatly increaſe the Freeholders, and thereby ſecure the Property, and ad<g ref="char:EOLhyphen"/>vance the Proteſtant Intereſt of that Province.</p>
+            <pb n="23" facs="tcp:135319:13"/>
+            <p n="83">83. And in the next place we do Humbly Acquaint your Honours that ſeveral of the Grantees have raiſed great ſums of Money by ſale of their Lands and Eſtates, in the whole amounting to 68155 <hi>l.</hi> 3 <hi>s.</hi> 1 <hi>d.</hi> as does hereafter more particularly appear, <hi>(viz.)</hi> The Right Honourable the Earl of <hi>Athl-ne</hi> has ſold ſo much of his Grant, as amounts to the Sum of 17684 <hi>l</hi> 12 <hi>s.</hi> And here we think we ought to take notice that the Lord <hi>Athl-ne's</hi> Grants are confirmed by Act of Par<g ref="char:EOLhyphen"/>liament of <hi>Ireland.</hi> The Right Honourable the Earl of <hi>R-mn-y</hi> has ſold ſo much of his Grants, as amounts to 30147 <hi>l.</hi> 11 <hi>s.</hi> 1 <hi>d.</hi> of which 5323 <hi>l.</hi> 14 <hi>s.</hi> 7 <hi>d.</hi> re<g ref="char:EOLhyphen"/>mains unpaid in the Purchaſers Hands. The Right Ho<g ref="char:EOLhyphen"/>nourable the Earl of <hi>Alb-m-rle</hi> has received in <hi>England</hi> 13000 <hi>l.</hi> Sterling, by ſale of part of his Grant. The Right Honourable the Lord <hi>C-nn-ngsby</hi> hath ſold to the value of 2200 <hi>l.</hi> And <hi>Thomas Keightly</hi> Eſquire has ſold and receiv'd to the value of 5123 <hi>l.</hi> 10 <hi>s.</hi>—amounting in the whole to 68155 <hi>l.</hi> 3 <hi>s.</hi> 1 <hi>d.</hi>
+            </p>
+            <p n="84">84. We are alſo to acquaint your Honours, that there have been ſeveral Proclamations and other Publick Aſ<g ref="char:EOLhyphen"/>ſurances given, that a fourth part ſhould be granted to ſuch as ſhould diſcover any concealed Forfeitures: to ſome of the Diſcoverers Grants have been made, and they appear in the Book of Grants N. 6. and others affirm they have not yet received any Satisfaction, the whole (We believe) are under the value of two thou<g ref="char:EOLhyphen"/>ſand Pounds <hi>per annum.</hi>
+            </p>
+            <p n="85">85. And here we may take notice, that the Forfei<g ref="char:EOLhyphen"/>tures in general, notwithſtanding they appear to be ſo conſiderable, have been rather a charge than profit to his Majeſty; which might ſeem very extraordinary, if we did not acquaint your Honours that many obſcure Men that had little or nothing ſince the reduction of <hi>Ireland,</hi> are now reputed Maſters of conſiderable Eſtates, and ſome of them very great ones: nor does there ap<g ref="char:EOLhyphen"/>pear any viſible cauſe of their acquiring ſuch ſuddain
+<pb n="24" facs="tcp:135319:14"/>Riches, but by fiſhing into theſe Forfeitures; indeed the whole management has been ſo intricate, as if it was deſign'd to make the knowledg of it a Myſtery, which has proved ſufficiently advantagious to theſe Men, tho very much to the detriment of his Majeſty, who by this means has been deceived in the value of his Grants, and in many caſes hath given much more than he intended, as we conceive.</p>
+            <p n="86">86. There is nothing ſeems to us to have contributed more to it, than the ſetting the forfeited Lands by Cant in the City of <hi>Dublin,</hi> and not in the ſeveral Counties in the Kingdom: For by that means very few perſons would come to Town at a great Charge and neglect of their Affairs, when they were ſure to be out-bid by the Agents to Great Men, who aimed only to get into poſ<g ref="char:EOLhyphen"/>ſeſſion, and had Intereſt enough afterwards to have all or moſt of their Rents remitted. Upon this conſidera<g ref="char:EOLhyphen"/>tion Mr. Attourney General, and <hi>William Conmelly</hi> Eſquire canted Lands in the County of <hi>Kilkenny</hi> worth about 200 <hi>l. per annum,</hi> to more than 20000 <hi>l. per annum:</hi> So that private Men who had no Intereſt, found it in vain to contend; beſides, they were over-awed by the Authority often of thoſe that bid againſt them, which weighed much in this Country.</p>
+            <p n="87">87. By theſe methods, when others were driven off the Stage, they took the Lands at their own rates, of<g ref="char:EOLhyphen"/>tentimes (as we conceive) agreeing not to bid againſt one another; particularly <hi>Thomas Brodrick</hi> 
+               <abbr>Eſq</abbr> and the ſaid Mr. <hi>Conmelly</hi> (who took vaſt quantities of Lands, and in a great meaſure governed the Cants, few Per<g ref="char:EOLhyphen"/>ſons daring to bid againſt them) acted in Partnerſhip in all they took in the Year 1695, and ever ſince; and let it afterwards to under-tenants at greater Rents, which is more obſervable in Mr. <hi>Brodrick,</hi> who was a Privy-Counſeller, and appointed by the Lord <hi>C-p-ll</hi> to inſpect the Cants, having been informed they were managed much to his Majeſties diſadvantage.</p>
+            <pb n="25" facs="tcp:135319:14"/>
+            <p n="88">88. Nor cou'd it be expected they ſhould be bet<g ref="char:EOLhyphen"/>ter regulated, when many of the immediate Officers of the Revenue took parcels of theſe Lands, and ſome were taken in truſt for the very Commiſſioners themſelves, and particularly the Lands of <hi>Kerdiffs-town</hi> were let to <hi>Henry Fernley,</hi> who was a nominal Perſon in truſt for Mr. <hi>Culliford,</hi> at 31 <hi>l.</hi> 16 <hi>s. per annum,</hi> tho actually canted to 84 <hi>l.</hi> Several other forfeited Lands have been taken by Mr. <hi>Culliford,</hi> and great quantities of Goods ſeized by him, to his Majeſty's uſe, which he afterwards converted to his own.</p>
+            <p n="89">89. Beſides the great abuſes in the management of their Cants, we humbly repreſent to your Honours one inſtance of a conſiderable Eſtate that was ſet with<g ref="char:EOLhyphen"/>out any Cant at all, by direction of the Lords Juſti<g ref="char:EOLhyphen"/>ces, for at leaſt one thouſand pounds <hi>per ann.</hi> leſs than it was then worth; and for a term of ſixty one years, tho by a Letter from his Majeſty, dated the  <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap>  day of <hi>March</hi> 1698, they were commanded to Let it for a term not exceeding twenty one Years, and at a time too when one Year and half was unexpired in another Tenant. This is a Leaſe of the Eſtate of Sir <hi>Valentine Browne</hi> and <hi>Nicholas Browne</hi> 
+               <abbr>Eſq</abbr> commonly call'd Lord <hi>K-nm-re,</hi> within the Counties of <hi>Kerry</hi> and <hi>Limerick,</hi> made to <hi>John Blannenhaſſet</hi> and <hi>George Rogers</hi> Eſquires, then Members of Parliament of this Kingdom.</p>
+            <p n="90">90. Having already laid before your Honours the moſt material parts of our Inquiry, we now crave leave to make a ſhort abſtract of our valuations, before we con<g ref="char:EOLhyphen"/>clude our Report.</p>
+            <p>The whole forfeited Eſtates ſince the 13th day of <hi>February</hi> 1688, we value at 2685130 <hi>l.</hi> 5 <hi>s.</hi> 9 <hi>d.</hi>
+            </p>
+            <pb n="26" facs="tcp:135319:15"/>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label">
+                        <hi>l.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>s.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The Eſtates reſtor'd by Articles we value at</cell>
+                     <cell>724923</cell>
+                     <cell>4</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>The Eſtates reſtored by favour, we value at</cell>
+                     <cell>260863</cell>
+                     <cell>7</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>The Debts affecting the Eſtates forfeited and found by Inquiſi<g ref="char:EOLhyphen"/>tion, or allow'd by order of the <hi>Exchequer,</hi> we compute at</cell>
+                     <cell>161936</cell>
+                     <cell>15</cell>
+                     <cell>6</cell>
+                  </row>
+               </table>
+            </p>
+            <p>Againſt which we ballance the Eſtates due to forfeit<g ref="char:EOLhyphen"/>ing Perſons not reſtored, amounting to 120013 <hi>l.</hi> 13 <hi>s.</hi> as alſo all Houſes, Tythes, Mills, Fairs, Markets, Chief-rents, and Ferries worth about 50000 <hi>l.</hi>
+            </p>
+            <p>Againſt the beneficial Leaſes, we ballance all the Leaſes call'd unprofitable, and alſo all the Woods yet ſtanding upon the forfeited Eſtates, which we compute may be worth about 60000 <hi>l.</hi> and the Chattles real of Perſons adjudged within Articles, never brought to any account.</p>
+            <p>But leſt Allowances ſhould not be thought ſuf<g ref="char:EOLhyphen"/>ficient, we throw in all denominations of Lands that have no number of Acres annexed to them, which we cannot believe will amount to leſs than ſeventy or eighty thouſand Acres, and conſequently if valued in proportion with other Lands, will come to at leaſt 14000 <hi>l.</hi>
+            </p>
+            <p>The Eſtates yet undiſcovered ſeem to us very conſide<g ref="char:EOLhyphen"/>rable, but we can make no probable valuation of them. the Sums received by the Grantees from the Sale of their Eſtates amount to 68155 <hi>l.</hi> 3 <hi>s.</hi> 1 <hi>d.</hi>
+            </p>
+            <p>We have taken no notice of any Debts due to Per<g ref="char:EOLhyphen"/>ſons reſtored, or of any incumbrances affecting their Eſtates.</p>
+            <p>And after the ſeveral Allowances before-mentioned, there yet remains 1699343 <hi>l.</hi> 14 <hi>s.</hi> which we humbly lay before your Honours as the groſs of all the Eſtates forfeited ſince the 13th of <hi>February</hi> 1688. and not reſtored.</p>
+            <pb n="27" facs="tcp:135319:15"/>
+            <p>We ſhall now conclude our Report by laying before your Honours one other Grant of a conſiderable value, which we are apprehenſive does not fall within the Let<g ref="char:EOLhyphen"/>ter of our Enquiry; but ſince the benefit of ſome forfeit<g ref="char:EOLhyphen"/>ed Leaſes or Holdings are therein granted, we choſe rather to lay the whole Grant before your Honours, than be thought defective in any part of our duty, or what might be expected from us.</p>
+            <p>A Grant under the Great Seal of <hi>Ireland</hi> dated the 30th of <hi>May</hi> 1695, paſſed to Mrs. <hi>Elizabeth V-ll-rs,</hi> now Counteſs of <hi>Ork---y,</hi> of all the Private Eſtate of the late King <hi>James</hi> (except ſome ſmall part in grant to the Earl of <hi>Athl-ne</hi>) containing 95649 Acres, worth 25995 <hi>l.</hi> 13 <hi>s. per annum;</hi> value total 337943 <hi>l.</hi> 9 <hi>s.</hi> the Particu<g ref="char:EOLhyphen"/>lars whereof, <hi>(viz.)</hi> the number of Acres in each County and Barony, the value <hi>per annum,</hi> and value total, ap<g ref="char:EOLhyphen"/>pear in a Book delivered in with this Report, <hi>N.</hi> 9. There is payable out of this Eſtate, two thouſand Pounds <hi>per annum</hi> to the Lady <hi>Suſanna B-ll-ſis</hi> for her Life; and alſo one thouſand pounds <hi>per annum</hi> to Mrs. <hi>Godfrey</hi> for her Life, and almoſt all the old Leaſes determine in <hi>May</hi> 1701, and then the Eſtate will anſwer the values above-mention<g ref="char:EOLhyphen"/>ed. All which with the utmoſt deference we humbly ſub<g ref="char:EOLhyphen"/>mit to your Honours.</p>
+            <closer>
+               <dateline>Dublin.</dateline>
+
+               <signed>Signed, <hi>Fra. Anneſley, John Trenchard, Ja. Hamilton, Hen. Langford.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="minority_report">
+            <pb facs="tcp:135319:16"/>
+            <pb n="29" facs="tcp:135319:16"/>
+            <head>To <hi>Francis Anneſly, John Trenchard, James Hamilton,</hi> and <hi>Henry Langford,</hi> Eſquires, Commiſſioners with us in the Execution of ſo much of a late Act of Parlia<g ref="char:EOLhyphen"/>ament, made in <hi>England,</hi> as relates to the Enquiring into, and taking an Account of the forfeited Eſtates of <hi>Ireland.</hi>
+            </head>
+            <head type="sub">
+               <hi>The Memorial of</hi> Henry <hi>Earl of</hi> Dr-gh-da, <hi>Sir</hi> Fran<g ref="char:EOLhyphen"/>cis Brewſter, <hi>and Sir</hi> Richard Leving <hi>Knights.</hi>
+            </head>
+            <opener>
+               <salute>Gentlemen,</salute>
+            </opener>
+            <p>WE having jointly acted with you in the Execution of the Power to us given by a late Act of Par<g ref="char:EOLhyphen"/>liament made in <hi>England,</hi> unto this preſent day, and ha<g ref="char:EOLhyphen"/>ving Signed and Sealed three Books of Outlawries <hi>N.</hi> 1. three Books of Forfeitures <hi>N.</hi> 2. and alſo three Books of Adjudications at the Council Board, <hi>N.</hi> 3. and three Books of Adjudications at the Court of Claims, <hi>N.</hi> 4. and three Books of Pardons and Reverſals <hi>N.</hi> 5. and three Books of Grants <hi>N.</hi> 6. and three Books of Incumbrances <hi>N.</hi> 7. and three Books of Debts due to forfeiting Per<g ref="char:EOLhyphen"/>ſons not reſtored <hi>N.</hi> 8. which we conceive contain the Subſtance of the Account required from us by the ſaid Act; and our Secretary having drawn up the Report, by the immediate Directions and Privity of ſome of you, We have been preſent at the firſt and ſecond Reading thereof, and have delivered our Sentiments concerning the ſeveral Paragraphs thereof, which in all amount to the number of ninety, or thereabouts; after having done our utmoſt Endeavors to ſatisfy You and our Selves, and to come to a perfect Agreement with you for the publick Good, on the 28th day of this inſtant <hi>November;</hi> three Parts or Books of the ſaid Report were prepared, read, and compared, and contain amongſt other things, the Paragraph concerning the private Eſtate of the late
+<pb n="30" facs="tcp:135319:17"/>K. <hi>James,</hi> which we have before affirmed in our Opinions, was not any forfeited Eſtate, within the meaning of the ſaid Act; and the ſaid Paragraph was much altered from what it was on the 24th day of <hi>October</hi> laſt, or at any time after, till the 23d day of this inſtant <hi>November,</hi> at which time it appear'd that mention is therein made of forfeited Lea<g ref="char:EOLhyphen"/>ſes, which are Granted, together with the ſaid Eſtate, tho neither the continuances of ſuch Leaſes, nor the va<g ref="char:EOLhyphen"/>lue of them above the reſerved Rent, nor other certainty of the ſaid Leaſes does appear to us. We have declared, and do declare, that whenever the aforeſaid Matters ſhall appear, we will join in the Reporting of whatever is a Forfeiture, within the meaning of the ſaid Act: Where<g ref="char:EOLhyphen"/>upon you were told by <hi>Henry</hi> Earl of <hi>Dr-gh-da,</hi> that we could not give an Account to the laſt Paragraph contain<g ref="char:EOLhyphen"/>ing the ſaid private Eſtate, nor to Paragraphs 8, 10, 25, 32, 66, 78, 79.</p>
+            <p>But that we would agree to all the ſaid Report, except the abovementioned Paragraphs.</p>
+            <p>Which you, <hi>Gentlemen,</hi> oppoſing, the ſaid Earl did en<g ref="char:EOLhyphen"/>ter on one of the Books, or parts of the Report, addreſ<g ref="char:EOLhyphen"/>ſed to the Honourable the <hi>Houſe of Commons,</hi> a writing to the Effect following.</p>
+            <p>We agree to all the above Report, except the 8, 10, 25, 32, 66, 78, 79 Paragraphs, to which we cannot Aſſent, for reaſons which we will be ready to lay before your Honours when we ſhall be thereunto required; which being written, we Signed and Sealed the ſame, and pray you to join with us therein, or to ſubſcribe your Names above the ſaid writing, thereby teſtifying your Aſſent to all the Paragraphs in the ſaid Report.</p>
+            <p>But you, <hi>Gentlemen,</hi> inſiſting upon your Majority, of four to three, have not only refuſed to ſign the ſaid Book addreſſed to the <hi>Houſe of Commons,</hi> but have taken the other Books, containing the ſaid Report, and addreſſed to his Majeſty and the Houſe of Peers from us, and will not ſuffer us to join with you in ſuch manner, as will (as
+<pb n="31" facs="tcp:135319:17"/>we conceive) both anſwer the ends of the ſaid Act, and ſatisfy our Minds in matters which we are to Certify upon our Oaths.</p>
+            <p>And when you propounded to us to make a ſeparate Report, which we thought no way convenient for the Service; you yet were not willing to let us have Copies, either of that we had agreed to, or diſſented from.</p>
+            <p>We therefore pray you, as well in conſideration of the Publick Truſt repoſed in us all, as of preſerving a good Correſpondence amongſt us, that you will not be any hin<g ref="char:EOLhyphen"/>drance to our Writing and Subſcribing, and Sealing on the other Books and Parts of the Report addreſſed to his Majeſty, and the Lords Spiritual and Temporal, in ſuch manner as we have done on the Book addreſs'd to the Honourable the Houſe of Commons; we leaving you ſufficient ſpace above ſuch Writing of ours, to Subſcribe and Seal the whole Report; which if it be not done al<g ref="char:EOLhyphen"/>ready, we will Conſent to make ſuch Alterations as to make that feaſible.</p>
+            <p>And we do inſiſt, and in virtue of the aforeſaid Act of Parliament, pray and caution you, that you do not obliterate, cancel, or otherwiſe deface what we have (as we believe) ſolemnly Signed, Sealed, and delivered, as aforeſaid, purſuant to the ſaid Act; but that the ſame, without Alteration, be laid before the Honourable <hi>Houſe of Commons.</hi>
+            </p>
+            <p>And we do likewiſe make inſtance to you, that we may be ordered, and not hindered from having Copies of the Paragraphs we have agreed to, but more eſpecially, and ſpeedily, thoſe to which we cannot agree, to the end we may not be hindred by you from laying before his Majeſty, and the two Houſes of Parliament, the reaſons why we cannot give our Aſſent to the ſaid 8 Paragraphs.</p>
+            <p>We alſo put you in mind of the ſeveral Inſtances we have made to you, of comparing at our Board the ori<g ref="char:EOLhyphen"/>ginal Depoſitions taken before us, with the Entry thereof in our Book, and ſigning ſuch Book by us, after due com<g ref="char:EOLhyphen"/>paring;
+<pb n="32" facs="tcp:135319:18"/>which we think extreamly neceſſary to be done, becauſe the original Depoſitions appear too much blotted and interlined, and are thereby capable of great Altera<g ref="char:EOLhyphen"/>tions, which may tend to the diſcredit of our Proceed<g ref="char:EOLhyphen"/>ings.</p>
+            <p>And laſtly, we pray you, and inſiſt, that this our Me<g ref="char:EOLhyphen"/>morial be kept ready to be produced amongſt the Papers and Proceedings of our Commiſſion.</p>
+            <closer>
+               <dateline>Given and delivered unto you under our Hands and Seals <date>this 29th day of <hi>No<g ref="char:EOLhyphen"/>vember,</hi> 1699.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>A Copy of a Letter to the Lord Ch-nc-ll-r of <hi>England;</hi> And the like Letter being ſent to the <hi>Speaker</hi> of the <hi>Houſe of Commons,</hi> the Houſe would not hear it read, as not Signed by a Quorum of the Commiſſioners ſent.</head>
+            <opener>
+               <salute>Our very good Lord,</salute>
+            </opener>
+            <p>WE having been appointed Commiſſioners, with four others, for executing ſo much of the late Act of Parliament made in <hi>England,</hi> as relates to the forfeit<g ref="char:EOLhyphen"/>ed Eſtates of <hi>Ireland;</hi> and having acted jointly with them therein, to the Expiration of the Time limited by that Act, and from that time attended the putting in order, and perfecting the matters of our Enquiry, unto this preſent day; and having with them Signed and Sealed the ſeveral Books containing the Names of the forfeiting Perſons, the particulars and Values of the forfeited E<g ref="char:EOLhyphen"/>ſtates, Real and Perſonal; the Counties and Baronies wherein they lie, the ſeveral Grants and Diſpoſitions of the Forfeitures, and the Conſiderations thereof; the Re<g ref="char:EOLhyphen"/>verſals of Outlawries and Pardons, of forfeiting Perſons, and their Conſiderations, and how and by whom pro<g ref="char:EOLhyphen"/>cured; we conceive that we have thereby, in all eſſential matters, anſwered the ends of the ſaid Act, and com<g ref="char:EOLhyphen"/>pleated the Truſt repoſed in us.</p>
+            <pb n="33" facs="tcp:135319:18"/>
+            <p>But ſince it was thought convenient, that a Report of our Proceedings ſhould be alſo made, for the better Ex<g ref="char:EOLhyphen"/>planation of the Books which contain the Subſtance, and to render them more uſeful and intelligible; We gave a general Conſent that the Secretary ſhould draw it up, but gave then no particular Directions our ſelves concerning the ſame.</p>
+            <p>The draught of which being produced, we excepted againſt ſeveral of the many Paragraphs contained in it; ſome for not being within the Power given us by the Act, and others as not warranted by Depoſitions or other Proof; and after many Debates with the other Commiſ<g ref="char:EOLhyphen"/>ſioners, We deſiring to comply with them as much as poſ<g ref="char:EOLhyphen"/>ſible, agreed to eighty two Paragraphs of the Report, containing more than all that related to the Books, and excepted only againſt about eight Paragraphs, tho we were not fully ſatisfied with ſeveral of thoſe which we had paſs'd in the manner they are expreſſed.</p>
+            <p>And when in theſe few matters our Reaſons could not prevail, but that they overruled us by a pretence of a Majority, of four againſt three; and having laboured to influence us by private Letters, Inſtructions, and Di<g ref="char:EOLhyphen"/>rections, which they affirm'd they had received from ſe<g ref="char:EOLhyphen"/>veral Members of the Honourable <hi>Houſe of Commons,</hi> we did not inſiſt further on having thoſe eight Paragraphs left out of the Report.</p>
+            <p>But when the Report was Engroſſed, and came to be Signed on Tueſday the 28th inſtant, as we were content the other four ſhould Sign and Seal the ſame, as they thought fit; ſo we deſired to Sign and Seal the ſame, as an Ap<g ref="char:EOLhyphen"/>probation of all contained therein, except thoſe Para<g ref="char:EOLhyphen"/>graphs; and accordingly on that part thereof addreſſed to the <hi>Houſe of Commons,</hi> one of us did write words to the Effect following, We agree to the above Report, except the 8th, 10th, 25th, 32d, 66th, 78th, 79th, Pa<g ref="char:EOLhyphen"/>ragraphs, and the Paragraph wherein the private Eſtate of the late Duke of <hi>York</hi> is included, to which we can<g ref="char:EOLhyphen"/>not
+<pb n="34" facs="tcp:135319:19"/>agree for Reaſons which we will be ready to lay before your Honours, when you are pleaſed to require them from us. And afterwards we Signed and Sealed the ſame, praying the other Commiſſioners to Sign and Seal as they thought fit, and offering to Sign and Seal the other parts of the Report addreſſed to his Majeſty, and the Houſe of Peers.</p>
+            <p>But they then inſtantly pretending to make an Order againſt what we did, refuſed either to Sign with us, or in a ſpace left for them above our Writing, and haſtily took away the other two parts of the Report, which we had offered to perfect, and alſo took from us that part which we had already perfected.</p>
+            <p>We then Adjourn'd, by Conſent, till four in the After<g ref="char:EOLhyphen"/>noon this day, and underſtanding that they had pretend<g ref="char:EOLhyphen"/>ed to make an Order for Cancelling the Report which we had Signed and Sealed; and ſeeing at the time of our meeting, that moſt of the Papers belonging to our Commiſſion were taken away; We with all ſpeed de<g ref="char:EOLhyphen"/>livered to them a Memorial, under our Hands and Seals, offering thereby to Sign and Seal the other two parts of the Report in the manner we had done the former, and to leave in them a greater ſpace for the other Commiſ<g ref="char:EOLhyphen"/>ſioners to Sign and Seal above us, and if deſired, to a<g ref="char:EOLhyphen"/>mend even that which was done before, praying them not to cancel what we had perfected.</p>
+            <p>We alſo put them in mind that we had often made Re<g ref="char:EOLhyphen"/>queſt to them, to compare the original Depoſitions which were taken before us, and were much blotted and inter<g ref="char:EOLhyphen"/>lined, and capable of great Alterations, with the Entries thereof in our Books, and that we might all of us Sign and Seal the ſaid Entries; and we alſo prayed them to give us Copies of thoſe Paragraphs to which we had a<g ref="char:EOLhyphen"/>greed, and more eſpecially thoſe to which we diſſented, that we might be the better able to repreſent to the moſt Honourable Houſe of Peers, the Reaſons of our diſa<g ref="char:EOLhyphen"/>greement to theſe Paragraphs. But finding no Succeſs,
+<pb n="35" facs="tcp:135319:19"/>and the other Commiſſioners owning to us, that they had, after our Adjournment the laſt Night, and after we were gone away, cut off that Leaf of the Report on which we had written our Conſent, and put our Hands and Seals; and they inſiſting, that unleſs we would declare our Conſent to all the Paragraphs, we ſhould de<g ref="char:EOLhyphen"/>clare it to none, and refuſing abſolutely to let us Sign the ſaid Report in any manner that might expreſs our diſa<g ref="char:EOLhyphen"/>greement to any part of it: We think our ſelves under a neceſſity of applying to your Lordſhip to lay this matter before the moſt Honourable Houſe of Peers, that we may have an opportunity to ſhew that we have joined in the execution of all the matters required of us by the ſaid Act; and likewiſe the Reaſons why, being upon our Oaths, we could not agree to thoſe Paragraphs we ex<g ref="char:EOLhyphen"/>cepted to. We are</p>
+            <closer>
+               <signed>Your Lordſhips Moſt faithful humble Servants, <hi>Dr-gh-da, F. Brewſter, Ri. Leving.</hi>
+               </signed>
+               <dateline>
+                  <hi>D<g ref="char:V">Ʋ</g>BLIN,</hi> 
+                  <date>Nov. 29. 1699.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="Parliamentary_proceedings">
+            <div type="debate">
+               <head>Houſe of Commons, <hi>January</hi> 16. 1699.</head>
+               <p>
+                  <hi>Iriſh</hi> Commiſſioners attending. Sir <hi>Richard Leving</hi> firſt called in by himſelf.</p>
+               <sp>
+                  <speaker>Mr. <hi>Speaker.</hi>
+                  </speaker>
+                  <p>SIR <hi>Richard Leving,</hi> The Houſe having being informed of ſomething that you have ſaid to a worthy Member of this Houſe (which I
+<pb n="36" facs="tcp:135319:20"/>am confined to examine you to) I may name the Perſon, becauſe you have ſaid it, as the Houſe is informed, to more than one: The Member's name is <hi>Vernon,</hi> and 'tis in relation to ſome Diſcourſe that paſſed between you and one or more of the Commiſſioners for the <hi>Iriſh</hi> For<g ref="char:EOLhyphen"/>feitures concerning the private Eſtate being put into the Report. The Houſe requires you to give an Account of what you informed that worthy Member.</p>
+               </sp>
+               <sp>
+                  <speaker>Sir <hi>Richard Leving.</hi>
+                  </speaker>
+                  <p>Mr. <hi>Speaker,</hi> I ſhall very readily obey the Commands of the Houſe; but before that, I would inform you (if it be the pleaſure of the Houſe) of all that then paſſed.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Speaker.</hi>
+                  </speaker>
+                  <p>Pray take your own Method, give an account of what you know.</p>
+               </sp>
+               <sp>
+                  <speaker>Sir <hi>Richard Leving.</hi>
+                  </speaker>
+                  <p>There was a Debate aroſe be<g ref="char:EOLhyphen"/>tween the Commiſſioners concerning the reporting the private Eſtate: Upon that Debate I was of opinion, That that Eſtate ought not to have been reported, becauſe not within our power by the Act: Upon this a Debate happened, and ſeveral Reaſons were offered why this might be underſtood to be a Forfeiture; one Reaſon that was given was, that the Eſtate was the late King <hi>James</hi>'s Eſtate, and ſo it was forfeited. To which anſwer was made, That if K. <hi>James</hi> had forfeited it, yet it was not within the Act, becauſe the words of the Act confined our Enquiry to Forfeitures ſince the 13th of <hi>February,</hi> 1688. When that was ſaid, there was another of the Commiſſioners that did ſay, I was always of opinion that this was a Forfeiture within the Act, becauſe tho King <hi>James</hi> had not forfeited before, yet he coming into <hi>Ireland</hi> on <hi>March</hi> 15. 1688. he committed Treaſon againſt King <hi>William,</hi> and Queen <hi>Mary,</hi> and forfeited that Eſtate. It was then objected, that this private Eſtate of the late King was parcel of the Poſſeſſions of the Crown of <hi>England,</hi> and was veſted in him as parcel of the Crown of <hi>England,</hi> and the Crown being veſted in K. <hi>William</hi> and Queen
+<pb n="37" facs="tcp:135319:20"/>
+                     <hi>Mary</hi> by an Act of Parliament made in this Kingdom, which ſettled the Crown in K. <hi>William</hi> and Q. <hi>Mary;</hi> the Crown and all the Poſſeſſions were veſted in them <hi>Feb.</hi> 13. 1688. ſo that that Eſtate being actually in his Majeſty then, and tho otherwiſe it might have been conceiv<g ref="char:EOLhyphen"/>ed, that K. <hi>James</hi> had forfeited afterwards, tho not then attainted, it could not be conceived how he could for<g ref="char:EOLhyphen"/>feit that Eſtate, becauſe it was before in the King and Queen. And the ſame Gentleman that urged, that upon the 15th of <hi>March</hi> King <hi>James</hi> landed in <hi>Ireland</hi> and committed Treaſon, pleaſed to ſay, I don't diſlike the 30th of <hi>January,</hi> nor the Deed that was done that Day; I like both the Day and the Deed. I confeſs I was ſurprized at it, and ſaid, if thoſe be your Reaſons, and this is your Agreement, I declare I will never join in it.</p>
+                  <p>One of the Commiſſioners at this time was abſent, but the next day that Gentleman was brought into the Room with the other Commiſſioners, and then this was debat<g ref="char:EOLhyphen"/>ed again, and upon that Debate much of that matter was ſpoke over again (not that relating to the 30th of <hi>Ja<g ref="char:EOLhyphen"/>nuary</hi>) but then it was again urged that that Eſtate might be ſaid to be forfeited, and the ſame Objections were re<g ref="char:EOLhyphen"/>peated, and it ſeemed to be aſſented to by the other Commiſſioners, that it was not ſtrictly a Forfeiture, and ſome of them ſaid it might not be within the Com<g ref="char:EOLhyphen"/>miſſion; then it was asked, Why then will you report it? And one of the Gentlemen did anſwer that it was a villanous Grant, and therefore fit to be expoſed; I did not write down the words at that time, becauſe I had then no intention of making any complaint, or publiſh<g ref="char:EOLhyphen"/>ing theſe matters. But ſince they have cut off our Hands and Seals from the Report, it made us think it neceſſary to do what we have done. And it being ſaid by a Com<g ref="char:EOLhyphen"/>miſſioner not here, but in <hi>Ireland,</hi> If we take it not to be within our Commiſſion, why will you do it? why will you report it? for it will fly in the King's Face: To which another anſwered, Why the Commiſſion flys in
+<pb n="38" facs="tcp:135319:21"/>the King's Face; if you won't fly in his Face, you can't execute this Commiſſion, or you muſt not execute it, one of them two.</p>
+                  <p>Upon this it was further urged, That this matter ſhould be reported; and one of the Commiſſioners ſaid, Tho it was not clearly within the Act, yet he had receiv<g ref="char:EOLhyphen"/>ed ſeveral Letters from ſeveral Members of this Houſe to report this matter, and he ſaid it was as good (or contained in the Letter, that it was as good) do nothing as not to report it. There was upon this an expreſſion by one of the Commiſſioners, that a great Perſon was concerned [That was my Lady <hi>Ork-y</hi>] and the ap<g ref="char:EOLhyphen"/>plication of that was, that if he was ſo tender of that Per<g ref="char:EOLhyphen"/>ſon, we ſhould not join with them in any thing elſe: For, Sir, the Debate was grown to this paſs, whether if we did not join in this thing, we ſhould join in any thing elſe. This I think is the ſubſtance of what I told that worthy Member: if I am asked as to any other Perſon, I ſhall give you a true Account.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Speaker.</hi>
+                  </speaker>
+                  <p>I am commanded to ask you who was by upon this diſcourſe between you and the reſt of the Commiſſioners concerning the differences in opinion, and how many, and particularly at that time that one of the Commiſſioners did ſay that he thought that ſince it was not in your Commiſſion to report that Grant, it would be a flying in the King's Face, <hi>&amp;c.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Sir <hi>R. Leving.</hi>
+                  </speaker>
+                  <p>It was the day that the Commiſſioner that was ſick firſt came to us, I believe about the 24th of <hi>October</hi> laſt: There was preſent at that time the Lord <hi>Dr-gh-da,</hi> Sir <hi>Francis Brewſter,</hi> Mr. <hi>Anneſly,</hi> Mr. <hi>Tren<g ref="char:EOLhyphen"/>chard,</hi> Mr. <hi>Hamilton,</hi> Mr. <hi>Langford,</hi> the Secretary, and my ſelf, all were in the room when this was ſaid.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Speaker.</hi>
+                  </speaker>
+                  <p>Who was it ſaid it was a flying in the King's Face, and who made anſwer that the Commiſſion did fly in the King's Face?</p>
+               </sp>
+               <pb n="39" facs="tcp:135319:21"/>
+               <sp>
+                  <speaker>Sir <hi>R. Leving.</hi>
+                  </speaker>
+                  <p>It was my Lord <hi>Dr-gh-da</hi> ſaid the firſt part, and Mr. <hi>Hamilton</hi> was the Perſon that ſaid the other.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Speaker.</hi>
+                  </speaker>
+                  <p>Who ſaid that concerning the 30th of <hi>January,</hi> that it was a good Day and a good Deed?</p>
+               </sp>
+               <sp>
+                  <speaker>Sir. <hi>R. Leving.</hi>
+                  </speaker>
+                  <p>That was the day before the other Diſ<g ref="char:EOLhyphen"/>courſe was; there was all but Mr. <hi>Trenchard,</hi> who was ſick and came next day.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Speaker.</hi>
+                  </speaker>
+                  <p>Who ſaid it, and upon what occaſion?</p>
+               </sp>
+               <sp>
+                  <speaker>Sir <hi>R. Leving.</hi>
+                  </speaker>
+                  <p>It was not a particular direction to any perſon as I remember; but it was ſpoke by way of Anſwer: it was told Mr. <hi>Langford</hi> when he came in, the Objection that was made againſt this being returned as a Forfeiture, <hi>&amp;c.</hi> And then he ſaid, I was always of opi<g ref="char:EOLhyphen"/>nion that this was a Forfeiture, and that Kings might for<g ref="char:EOLhyphen"/>feit as well as others; and he thereupon ſaid, he did not diſlike the 30th of <hi>January.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Speaker.</hi>
+                  </speaker>
+                  <p>You mentioned that ſome of the Com<g ref="char:EOLhyphen"/>miſſioners ſaid they received Letters from Members of Par<g ref="char:EOLhyphen"/>liament to inſert this Grant into the Report: Pleaſe to repeat who had them, and from whom?</p>
+               </sp>
+               <sp>
+                  <speaker>Sir <hi>R. Leving.</hi>
+                  </speaker>
+                  <p>The firſt time I heard mention of any ſuch Letter was the firſt night: After we roſe we went to Mr. <hi>Trenchard</hi>'s Chamber, who was ſick, to conſult; for this Debate occaſioned ſome concern in our minds, and we did apprehend ſome breach amongſt us, and went to his Chamber to ſee if we could come to an accommodation, and offered Mr. <hi>Trenchard</hi> and the reſt of the Gentlemen preſent, That if they would take the whole Report with<g ref="char:EOLhyphen"/>out the private Eſtate, and ſign it, we could join with them, and if they would put in an Article of the private Eſtate, they might ſign it by themſelves: for we thought if we could not agree to it, we would be no hindrance to them if they thought fit to do it; and then Mr. <hi>Trenchard</hi> ſaid, he had Letters from ſeveral Members to report this private Eſtate, and that it would ſignify nothing if we did not report it.</p>
+               </sp>
+               <pb n="40" facs="tcp:135319:22"/>
+               <sp>
+                  <speaker>Mr. <hi>Speaker.</hi>
+                  </speaker>
+                  <p>Did he ſay that from himſelf, or that it was in any Letter?</p>
+               </sp>
+               <sp>
+                  <speaker>Sir <hi>R. Leving.</hi>
+                  </speaker>
+                  <p>I do not ſay that poſitively, he ſhew'd me no Letter.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Speaker.</hi>
+                  </speaker>
+                  <p>Did he name any Member?</p>
+               </sp>
+               <sp>
+                  <speaker>Sir <hi>R. Leving.</hi>
+                  </speaker>
+                  <p>I do not remember that he named a<g ref="char:EOLhyphen"/>ny Member.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Speaker.</hi>
+                  </speaker>
+                  <p>Who was preſent at that time in Mr. <hi>Trenchard's</hi> Chamber?</p>
+               </sp>
+               <sp>
+                  <speaker>Sir <hi>R. Leving.</hi>
+                  </speaker>
+                  <p>Moſt of thoſe Gentlemen I have na<g ref="char:EOLhyphen"/>med were there the next day.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Speaker.</hi>
+                  </speaker>
+                  <p>Who was by?</p>
+               </sp>
+               <sp>
+                  <speaker>Sir <hi>R. Leving.</hi>
+                  </speaker>
+                  <p>My Ld <hi>Dr-gh-da</hi> nor Sir <hi>F. Brewſter</hi> were there, but the reſt were there, and the Secretary I believe was there. The next day when we met again, there was preſent, as I inform'd you, all the Commiſſio<g ref="char:EOLhyphen"/>ners, and then Mr. <hi>Trenchard</hi> amongſt other Diſcourſe did expreſs himſelf in the ſaid manner, and Mr. <hi>Anneſly</hi> ſaid that he had received Letters from Members of the Houſe.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Speaker.</hi>
+                  </speaker>
+                  <p>But Mr. <hi>Anneſly,</hi> nor Mr. <hi>Trenchard</hi> did not tell you the Contents of thoſe Letters, nor from whom they received them.</p>
+               </sp>
+               <sp>
+                  <speaker>Sir <hi>R. Leving.</hi>
+                  </speaker>
+                  <p>They ſaid they had Letters to report this Eſtate, but they did not as I remember name any body, tho I did hear from my Ld <hi>Dr-gh-da</hi> and Sir <hi>Francis Brewſter,</hi> that they had named Perſons, but I did not my ſelf take particular notice of any Body.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Speaker.</hi>
+                  </speaker>
+                  <p>Did they produce any Letter, or ſhew you any?</p>
+               </sp>
+               <sp>
+                  <speaker>Sir <hi>R. Leving.</hi>
+                  </speaker>
+                  <p>Not then.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Speaker.</hi>
+                  </speaker>
+                  <p>When did you ſee any?</p>
+               </sp>
+               <sp>
+                  <speaker>Sir <hi>R. Leving.</hi>
+                  </speaker>
+                  <p>I did ſee a Letter the next morning, and that Letter was ſhew'd to me by Mr. <hi>Anneſly,</hi> but I did not think that Letter came up to the point they ſpake over night.</p>
+               </sp>
+               <pb n="41" facs="tcp:135319:22"/>
+               <sp>
+                  <speaker>Mr. <hi>Speaker.</hi>
+                  </speaker>
+                  <p>Can you remember the Contents of it?</p>
+               </sp>
+               <sp>
+                  <speaker>Sir <hi>R. Leving.</hi>
+                  </speaker>
+                  <p>I had rather refer my ſelf to the Letter, I believe Mr. <hi>Anneſly</hi> has it.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Speaker.</hi>
+                  </speaker>
+                  <p>Who wrote it?</p>
+               </sp>
+               <sp>
+                  <speaker>Sir. <hi>R. Leving.</hi>
+                  </speaker>
+                  <p>Muſt I name him?</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Speaker.</hi>
+                  </speaker>
+                  <p>Yes, the Houſe expects it of you.</p>
+               </sp>
+               <sp>
+                  <speaker>Sir <hi>R. Leving.</hi>
+                  </speaker>
+                  <p>His name is Mr. <hi>Arthur Moore:</hi> And I did then take notice of it to Mr. <hi>Anneſly,</hi> that this Letter did not amount to what they told us the night before.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Speaker.</hi>
+                  </speaker>
+                  <p>You ſay you ſaid to Mr. <hi>Anneſly,</hi> you told us of a Letter you received from ſome Members to report this private Eſtate, but this Letter does not come up to what you told us. Upon which Mr. <hi>Anneſly</hi> anſwered as for himſelf, If we do not report that pri<g ref="char:EOLhyphen"/>vate Eſtate, we had as good do nothing.</p>
+               </sp>
+               <sp>
+                  <speaker>Sir. <hi>R. Leving.</hi>
+                  </speaker>
+                  <p>I don't ſay ſo: Upon recollection, I do now believe that thoſe Gentlemen Mr. <hi>Trenchard</hi> and Mr. <hi>Anneſly</hi> did ſay that there was contained in the Letter that Expreſſion, that if they did not put that Eſtate into the Report, they had as good do nothing; but when I once ſaw that Letter, I thought they had impoſed upon us.</p>
+               </sp>
+               <p>Then Sir <hi>P. Leving</hi> withdrew, and all the reſt of the Commiſſioners that were then in town, with their Se<g ref="char:EOLhyphen"/>cretary, were ordered to be brought in.</p>
+               <p>And accordingly Sir <hi>Francis Brewſter,</hi> Mr. <hi>Anneſly,</hi> Mr. <hi>Trenchard,</hi> Mr. <hi>Langford,</hi> and Mr. <hi>Hooper</hi> their Se<g ref="char:EOLhyphen"/>cretary were brought in.</p>
+               <sp>
+                  <speaker>Mr. <hi>Speaker.</hi>
+                  </speaker>
+                  <p>Gentlemen, I am commanded to enquire of you, and if you pleaſe you may ſpeak ſeverally to it: The Houſe has been informed of ſome diſcourſes a<g ref="char:EOLhyphen"/>mong you Gentlemen of this Commiſſion, when you differed in opinion about returning of King <hi>James</hi>'s private Eſtate; the firſt time Mr. <hi>Trenchard</hi> was not there, and the next day that Mr. <hi>Trenchard</hi> was brought there: but I think the Diſcourſe the Houſe would en<g ref="char:EOLhyphen"/>quire
+<pb n="42" facs="tcp:135319:23"/>after was the 2d day when Mr. <hi>Trenchard</hi> was there, which was to this Effect, That ſome Argument being given why this Eſtate was Forfeiture, and other Arguments be<g ref="char:EOLhyphen"/>ing given it was not, one of the Commiſſioners, as this Houſe hath been informed, ſhould ſay, if it be not within our Com<g ref="char:EOLhyphen"/>miſſion, 'tis a flying in the King's face. Upon which ano<g ref="char:EOLhyphen"/>ther Commiſſioner made anſwer, Why the Commiſſion it ſelf flies in the King's face; And for what are we ſent hi<g ref="char:EOLhyphen"/>ther but to fly in the Kings face, or to that effect?</p>
+               </sp>
+               <sp>
+                  <speaker>Members.</speaker>
+                  <p>No, no.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Speaker.</hi>
+                  </speaker>
+                  <p>I beg Pardon if I miſtake, the words were to this effect: The Commiſſion flies in the King's face, and if you will not fly in his face, you muſt not, or you cannot execute this Commiſſion. You are all ſaid to be preſent when theſe words were ſpoken; So you will pleaſe to give account ſeverally to the Houſe what paſſed upon this occaſion, and what you remember of it. Sir <hi>Francis Brewſter,</hi> if you pleaſe.</p>
+               </sp>
+               <sp>
+                  <speaker>Sir <hi>Francis Brewſter.</hi>
+                  </speaker>
+                  <p>I beg leave to ſay, I am ſorry for any differences between us, and that we were as hear<g ref="char:EOLhyphen"/>ty as any in the execution of this Commiſſion. But for the matter of the words now ſpoke of, there was ſome Diſcourſe concerning the reporting that private Eſtate: Sir <hi>R. Leving</hi> ſaid, it was not within our Enquiry. To which ſome Reply was made, why if it was not within our Commiſſion yet it might be fit to be reported. My Ld <hi>Dr-gh-da</hi> made anſwer, If it be not within our Commiſ<g ref="char:EOLhyphen"/>ſion, then it will be to fly in the King's face to report it. Another then ſaid, the Commiſſion flies in the King's face, and we can't act in this Commiſſion, unleſs we fly in his face; I think that was ſaid by Mr. <hi>Hamilton.</hi> Upon which ſome other Arguments went on to enforce the paſſing of it. At laſt ſome of the Commiſſioners ſaid they had a Letter from ſeveral Members of the Houſe of Commons, that gave them reaſon to believe they ſhould report this Eſtate. I think it was ſaid by Mr. <hi>Anneſly:</hi> Upon which Sir <hi>R. Leving</hi> made anſwer, I do not
+<pb n="43" facs="tcp:135319:23"/>think theſe Gentlemen have changed their minds, that was, that Forfeitures might be made by Kings: upon which it was anſwered, you are miſtaken, a great many of your Friends are now come over to us; and they urged it ſtill more, and at laſt they ſaid they had had ſeveral Letters about it. I muſt confeſs I made anſwer, I know not whether you have had any Letter, I never had any: But I muſt needs ſay, if I had no other reaſon I ſhould not ſign this Report, for I think I ought not to be direct<g ref="char:EOLhyphen"/>ed by any private Member of the Houſe of Commons, and that no Letter ſhould prevail with me to do it, I am loth to name any one.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Speaker.</hi>
+                  </speaker>
+                  <p>The Houſe expects it.</p>
+               </sp>
+               <sp>
+                  <speaker>Sir <hi>F. Brewſter.</hi>
+                  </speaker>
+                  <p>I think they named Mr. <hi>Harcourt.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Speaker.</hi>
+                  </speaker>
+                  <p>Who named him?</p>
+               </sp>
+               <sp>
+                  <speaker>Sir <hi>F. Brewſter.</hi>
+                  </speaker>
+                  <p>Mr. <hi>Anneſly.</hi> He did not ſay in his Letter particularly, but did ſay ſomething to that pur<g ref="char:EOLhyphen"/>poſe, that if we did not report the private Eſtate, we had as good do nothing; and he ſaid it was ſo in the Letter.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Speaker.</hi>
+                  </speaker>
+                  <p>Was you at Mr. <hi>Trenchard's</hi> Chamber the firſt night that he was not at the Commiſſion, the night before he was brought thither?</p>
+               </sp>
+               <sp>
+                  <speaker>Sir <hi>F. Brewſter.</hi>
+                  </speaker>
+                  <p>No, Sir, I was not.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Speaker.</hi>
+                  </speaker>
+                  <p>Mr. <hi>Anneſly,</hi> If you pleaſe to give an Account of what you know of this matter, you hear to what the Houſe hath a mind to be informed; 'tis as to the Diſcourſe that happened amongſt you the Com<g ref="char:EOLhyphen"/>miſſioners the 2 days you differed in opinion concerning the inſerting of this Grant into your Report, and par<g ref="char:EOLhyphen"/>ticularly as to the words ſpoken by Mr. <hi>Hamilton,</hi> or what elſe you heard then.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Anneſly.</hi>
+                  </speaker>
+                  <p>Truly Mr. <hi>Speaker,</hi> I never expected to have been called to an account for any thing that was ſaid among the Commiſſioners in <hi>Ireland</hi> upon their debates, or that any Gentleman in Commiſſion with us would have acted ſuch a part here; otherwiſe I ſhould have
+<pb n="44" facs="tcp:135319:24"/>been more obſervant thereof; but the particular Ex<g ref="char:EOLhyphen"/>preſſions which ſome of us are charged with by the Evi<g ref="char:EOLhyphen"/>dence now given, are of ſo extraordinary a nature, that I could not eaſily have forgotten them; flying in the face of the King is ſo great a Reflection and ſo fooliſh an Ex<g ref="char:EOLhyphen"/>preſſion, that I think I could not have paſſed it by with<g ref="char:EOLhyphen"/>out the Cenſure it deſerved. Sir, I do affirm to you upon my Reputation, my Credit, and all that is dear to me, that I never heard the leaſt Reflection upon the King by any of the Commiſſioners, either in their Debates or otherwiſe in execution of their Authority.</p>
+                  <p>When I had the Honour to be appointed by you one of your Commiſſion, I naturally reflected upon the part I was to act in it, the many enemies I muſt in likelihood create upon a faithful Diſcharge of my Duty, as well amongſt Men in power, the Grantees, as the Purchaſers, and others claiming under them; of which I had ſome knowledg, having been formerly in <hi>Ireland.</hi> However, I was reſolved upon a very ſhort notice not only to ſub<g ref="char:EOLhyphen"/>ject my own private Concerns to Diſappointments, but to diſpoſe of other Mens buſineſs, with which in the way of my profeſſion I was intruſted, to their beſt advantage in my abſence.</p>
+                  <p>In diſcharge whereof I did act (and I hope it will appear I did ſo) with all imaginable Integrity. And it will be my hard fortune, if after ſuch my Endeavours I ſhould fall under your Diſpleaſure.</p>
+                  <p>As to what is alledged with reſpect to Mr. <hi>Harcourt,</hi> I do not remember that I ever mentioned his Name upon any Debate at our board, whereby to influence any Man in his Judgment: nor indeed upon any other account, except in private Converſation, by drinking his Health, and by expreſſing my ſelf with that gratitude which be<g ref="char:EOLhyphen"/>came me towards one whom I had received particular Obligations from and deſerved well from me.</p>
+                  <p>I never had any Letter from Mr. <hi>Harcourt</hi> that took the leaſt notice of the private Eſtate, nor indeed that re<g ref="char:EOLhyphen"/>lated
+<pb n="45" facs="tcp:135319:24"/>to the execution of our Commiſſion, except in one Letter he ſaid I might eaſily imagine with what pleaſure he heard of the ſucceſs of our Labours, and that he was glad to find by the account I gave him, that the Forfei<g ref="char:EOLhyphen"/>tures were likely to anſwer the End for which we were ſent over, and that was the only Letter I received from him during my ſtay in <hi>Ireland;</hi> hearing abroad of ſuch a Letter being mentioned in the Houſe, I lookt all the Let<g ref="char:EOLhyphen"/>ters I received from any of the Gentlemen of this Houſe during my ſtay in <hi>Ireland;</hi> but I own I am very unwilling to produce the Letters of any perſon who favoured me with his correſpondence, and do hope I ſhall not be oblig<g ref="char:EOLhyphen"/>ed to it.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Speaker.</hi>
+                  </speaker>
+                  <p>For that you will have the further plea<g ref="char:EOLhyphen"/>ſure of the Houſe; but do you ſay you never heard of thoſe words of flying in the King's face, or that your Commiſſion did fly in the King's Face?</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Anneſly.</hi>
+                  </speaker>
+                  <p>From the time we firſt began to execute our Commiſſion, till our Power was determined, I never was abſent one hour, I think I may ſay one moment from buſineſs, and I aſſure you I never heard thoſe words, nor any thing like them, fall from any one of the Com<g ref="char:EOLhyphen"/>miſſioners. As to the Debate among the Commiſſioners about returning the private Eſtate, ſome hot words did paſs, and I will take notice to you (if you pleaſe) of ſome of them.</p>
+                  <p>The Gentleman on my left hand did give very abuſive Language to one of the other Commiſſioners.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Speaker.</hi>
+                  </speaker>
+                  <p>To whom?</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Anneſly.</hi>
+                  </speaker>
+                  <p>To Mr. <hi>Trenchard.</hi> Another of the Commiſſioners ſaid, he would battle it with us at the Bar of the Houſe of Commons.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Speaker.</hi>
+                  </speaker>
+                  <p>Who was that?</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Anneſly.</hi>
+                  </speaker>
+                  <p>That was my Lord <hi>Dr-gh-da.</hi> Says Sir <hi>Francis Brewster,</hi> I have as good Friends as you, meaning Mr. <hi>Trenchard,</hi> and we ſhall be as well heard there as you. Mr. <hi>Trenchard</hi> anſwered, I don't fear what you can
+<pb n="46" facs="tcp:135319:25"/>do, if you won't be an Evidence againſt me: the ill Lan<g ref="char:EOLhyphen"/>guage Sir <hi>Francis</hi> gave forced that Expreſſion from him; the Reſentments were high, and the reſt of the Com<g ref="char:EOLhyphen"/>miſſioners then preſent endeavoured to pacify and make them Friends; I own I then little ſuſpected that Sir <hi>Fran<g ref="char:EOLhyphen"/>cis,</hi> that took the Expreſſion ſo ill, would have made good Mr. <hi>Trenchard</hi>'s words at this Bar; if I had, I ſhould have taken more notice of what paſſed. There might be ſome other particulars that Sir <hi>F. Brewſter</hi> has charged us with, which I may have omitted anſwering; if you pleaſe Sir to remind me of them, I will give them the beſt Anſwer I can.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Speaker.</hi>
+                  </speaker>
+                  <p>Mr. <hi>Trenchard,</hi> if you pleaſe to give the Houſe an Account of what you know of this matter.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Trenchard.</hi>
+                  </speaker>
+                  <p>I was preſent at the Debate about the private Eſtate, which was managed with great warmth, and much ſaid on both ſides; but I do not remember one word which this Gentleman ſpeaks of that was di<g ref="char:EOLhyphen"/>rectly ſo ſaid, I do own there were ſome words that might give umbrage to this Accuſation with thoſe that were reſolved to miſunderſtand them. The occaſion was this; My Ld <hi>Dr-gh-da,</hi> as I remember, or Sir <hi>Ri<g ref="char:EOLhyphen"/>chard Leving</hi> ſaid it would be flying in the King's Face to report this Grant: Upon which one of the Commiſſio<g ref="char:EOLhyphen"/>ners replied; my Lord, We have heard too much of this Argument already, and 'tis time to have done with it; we were not ſent here to flatter, and if the enquiring into the miſmanagement of the Forfeitures be a flying in the King's Face, then our whole Commiſſion is a flying in his Face. 'Tis not diſhonouring but vindicating his Ma<g ref="char:EOLhyphen"/>jeſty, to ſhew he has been abuſed by ill Men; and I doubt not but he will deſert them when he has diſcovered it, as the beſt and wiſeſt Princes in all Ages have done. More than this, I do affirm upon the Reputation of a Gentle<g ref="char:EOLhyphen"/>man, and the word of an honeſt Man, was not ſaid whilſt I was at the Board.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Speaker.</hi>
+                  </speaker>
+                  <p>Who ſaid the words you have repeated?</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Trenchard.</hi>
+                  </speaker>
+                  <p>'Twas I, Sir.</p>
+               </sp>
+               <pb n="47" facs="tcp:135319:25"/>
+               <sp>
+                  <speaker>Mr. <hi>Speaker.</hi>
+                  </speaker>
+                  <p>You don't remember that Mr. <hi>Hamilton</hi> ſaid any thing as to the flying in the King's Face?</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Trenchard.</hi>
+                  </speaker>
+                  <p>I do affirm that Mr. <hi>Hamilton</hi> to the beſt of my memory (and I think I could not miſtake it) did not ſay any words relating to that matter, more than that ſince we had enquired into the private Eſtate, and it was known in both <hi>England</hi> and <hi>Ireland,</hi> we ſhould be thought bribed and corrupt if we did not report it: but I am very ſure he ſaid no words diſhonour<g ref="char:EOLhyphen"/>able of his Majeſty; and if he had, I would have re<g ref="char:EOLhyphen"/>ſented it at the time, as I ſuppoſe theſe Gentle men would have done, and call'd upon others to have taken notice of it.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Speaker.</hi>
+                  </speaker>
+                  <p>What words did you hear ſaid in your Chamber?</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Trenchard.</hi>
+                  </speaker>
+                  <p>A great part of the time I was in that Kingdom, I was confined to my Chamber being ſick, which I impute in a great meaſure to the fatigue of our Commiſſion, during which time I had the favour to be viſited ſometimes with ten or a dozen in an Even<g ref="char:EOLhyphen"/>ing, ſometimes twice the number of the People of the beſt Faſhion in that Country, and amongſt the reſt, my own Brethren often obliged me with their Company; with<g ref="char:EOLhyphen"/>out doubt in this time many ſubjects were diſcourſed of, but the particulars of any one diſcourſe I do not re<g ref="char:EOLhyphen"/>member. I never treaſure up what is ſaid in private Con<g ref="char:EOLhyphen"/>verſation, and if I did, I ſcorn to tell it.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Speaker.</hi>
+                  </speaker>
+                  <p>Mr. <hi>Langford,</hi> you hear what the Gen<g ref="char:EOLhyphen"/>tlemen have given an account of, 'tis of what paſſed be<g ref="char:EOLhyphen"/>tween you about putting the private Eſtate into the Re<g ref="char:EOLhyphen"/>port, and whether upon my Ld <hi>Dr-gh-da</hi>'s ſaying it would be a flying in the King's face, Mr. <hi>Hamilton</hi> an<g ref="char:EOLhyphen"/>ſwered, Our Commiſſion flies in the King's face?</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Langford.</hi>
+                  </speaker>
+                  <p>I was preſent when this debate hap<g ref="char:EOLhyphen"/>pened about the private Eſtate, and it was with a great deal of heat. It was objected by my Ld <hi>Dr-gh-da,</hi> that it would be a flying in the King's face to report the private Eſtate, and was not in our Commiſſion.
+<pb n="48" facs="tcp:135319:26"/>It was anſwered by Mr. <hi>Trenchard,</hi> we had that too often men<g ref="char:EOLhyphen"/>tioned, to put us by the Execution of this Commiſſion; that we did not think the diſcovering Abuſes, a flying in the King's Face; but that on the contrary, we ſhould do Service to his Majeſty to lay the matter before him, that he might ſee how the Grants were diſpoſed of, and how he was deceived in them; and he thought it was alſo neceſſary that both this Houſe and the Kingdom ſhould know it.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Speaker.</hi>
+                  </speaker>
+                  <p>What did Mr. <hi>Hamilton</hi> ſay?</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Langford.</hi>
+                  </speaker>
+                  <p>I did not hear Mr. <hi>Hamilton</hi> ſpeak one word re<g ref="char:EOLhyphen"/>lating to the King, or this Point.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Speaker.</hi>
+                  </speaker>
+                  <p>Do you know of any Letters from Members of this Houſe?</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Langford.</hi>
+                  </speaker>
+                  <p>No, Sir, I had not the Honour to be acquaint<g ref="char:EOLhyphen"/>ed with many Members; I had no Letter my ſelf, nor did I ſee any.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Speaker.</hi>
+                  </speaker>
+                  <p>You are accuſed about words of your own.</p>
+               </sp>
+               <sp>
+                  <speaker>Members.</speaker>
+                  <p>Do not ask him to that.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Speaker.</hi>
+                  </speaker>
+                  <p>Mr. <hi>Hooper,</hi> You hear to what purpoſe you are called in?</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Hooper</hi>
+                  </speaker>
+                  <p>Yes, I do, the whole matter ſeems ſtrange to me, I have not been abſent from the Board, except when I was ſick at <hi>Limerick,</hi> one hour during the whole Execution of this Commiſſion: nor did I hear one word ſpoken reflecting upon his Majeſty, unleſs the inſinuation, that doing our Duty would be flying in the King's Face, which I think was a great reflecti<g ref="char:EOLhyphen"/>on upon him; and I think Mr. <hi>Trenchard</hi> has very well repeat<g ref="char:EOLhyphen"/>ed his own words. I am ſure in ſubſtance they are the ſame. I am confident there was no Letter produced whilſt I was at the Board, from any Member: and I believe by what Conver<g ref="char:EOLhyphen"/>ſation I had with the four Commiſſioners, they never had any but what was fit to be produced; and for the ſubſtance of what Mr. <hi>Anneſly</hi> and Mr. <hi>Trenchard</hi> have ſaid, I know it to be true, I never heard Mr. <hi>Hamilton</hi> ſpeak but with great Honour of the King, and I do poſitively aſſert, to the beſt of my Memory, he never ſaid any ſuch thing, as is alledged againſt him, at the Board. I am confident I was preſent at all the Debates about the private Eſtate, and do remember three diſſenting Commiſ<g ref="char:EOLhyphen"/>ſioners did immediately declare themſelves againſt the inſerting it in the Report; three others that are preſent did as readily de<g ref="char:EOLhyphen"/>clare for it; ſo that Mr. <hi>Hamilton</hi> being in a manner ſolely left to determine this matter, complained that it was a great Hard<g ref="char:EOLhyphen"/>ſhip upon him; for, ſays he, my Lord <hi>Ork—y</hi> is my Relation and
+<pb n="49" facs="tcp:135319:26"/>my Friend, and beſides I am a Tenant to the private Eſtate, and 'tis very ſevere that the deciſion of this matter ſhould lie upon me. He added, he ſhould be very well pleaſed if the Objecti<g ref="char:EOLhyphen"/>on had been made ſooner, and perhaps it might have had more weight with him; and truly, Mr. <hi>Speaker,</hi> it did not appear that there was one of the Commiſſioners for above five Months, but ſeemed to be peremptory for the Reporting it, and accord<g ref="char:EOLhyphen"/>ingly Sir <hi>Richard Leving,</hi> and Sir <hi>Francis Brewſter,</hi> joined in the Examination of many Witneſſes, to the value of it at <hi>Limerick,</hi> and other places, till about five days before the Power of the Commiſſion ceaſed, when I moved the Board that I might have ſome Direction about that Eſtate; and they made an Order that I ſhould immediately prepare the Report, and put this in it. And Mr. <hi>Hamilton</hi> gave this Reaſon when he joined with the Commiſſioners, We have made ſo great a noiſe about this Eſtate, by examining ſo many People to the Value, and ſending for the Rent Rolls of it, that it is now the publick Diſcourſe that it will be Reported; and I know the World muſt needs ſay that we are Bribed and Corrupted if we do it not; if it was poſſible, I ſhould be glad to be excuſed; but I will rather loſe my Friend, I will rather loſe my little Eſtate than be thought guilty of Bribery and Corruption, and ſo gave his Conſent to the Reporting of it; and for the words relating to flying in the King's Face, I affirm they are falſe.</p>
+               </sp>
+               <sp>
+                  <speaker>Sir <hi>F. Brewſter.</hi>
+                  </speaker>
+                  <p>I deſire to ſpeak a few words: You were pleaſed to ask me to give an Account of what paſſed about the words, flying in the King's Face, and I find the Houſe expects I ſhould give an Account of the whole that paſſed then; and I beg leave to ſay farther, that when the Debate was about the private Eſtate, and thoſe words were ſaid, about flying in the King's Face, which my Ld <hi>Dr-gh-da,</hi> and others will take their Oaths of, and I believe Mr. <hi>Hamilton</hi> will not deny; at the ſame time this was ſaid by Mr. <hi>Trenchard,</hi> I hear you talk of flying in the King's Face, I hope 'tis not flying in his Face; but this I muſt tell you, 'tis a villanous Grant and ought to be expoſed; upon his ſpeaking ſo, words aroſe, and that Gentleman gave me ill Language, but my Language was not ſo bad, but he was forced to beg my Pardon at the Board, and I did not his; there he ſtands, let him deny it if he can.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Trenchard.</hi>
+                  </speaker>
+                  <p>Sir, it is true, I did ask his Pardon, and the Occaſion was this, as Mr. <hi>Anneſly</hi> has acquainted you, I was pro<g ref="char:EOLhyphen"/>voked by his opprobrious Language to reply, I feared him in no Capacity but as an Evidence, which he took very heinouſly,
+<pb n="50" facs="tcp:135319:27"/>he repeated the word Evidence; he ſaid 'twas below a Gentle<g ref="char:EOLhyphen"/>man, below a Man of Honour, that ſuch a one ought to be ſhunn'd by all civil Converſation, that I had better have ſtuck a Dagger in his Heart, than have called him an Evidence; which now I think, Mr. <hi>Speaker,</hi> he won't reſent ſo highly. This put the Board in great diſorder, and one of the Commiſſioners whiſpered to me, (I think it was the abſent Member, but I am ſure all agreed in it) you know he is a very ſimple old Fellow; and tho he gave the Affront, you are in the wrong that you are capable of being Angry with him. Truly, Sir, I was con<g ref="char:EOLhyphen"/>ſcious to my ſelf that I was much to blame, to ſuffer my ſelf to be provoked by him; and therefore that the Debate might be interrupted no longer, I ask'd his Pardon. As to the other part I am charged with, that I called the Grant of the pri<g ref="char:EOLhyphen"/>vate Eſtate a villanous Grant, I directly deny it. 'Twas poſ<g ref="char:EOLhyphen"/>ſible I might ſay 'twas an extravagant Grant, an unreaſonable Grant, an unconſcionable Grant, that the King was impoſed upon and deceived in this Grant, to give that for 5000 <hi>l. per Annum,</hi> which is worth between five and ſix and twenty thou<g ref="char:EOLhyphen"/>ſand. Theſe are words that amount to it, and might fall from me, but that I uſed the word villanous I poſitively deny; 'tis a word I don't uſe in my ordinary Converſation, a word that never comes out of the mouth of a Gentleman, and is falſe.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Speaker.</hi>
+                  </speaker>
+                  <p>Mr. <hi>Anneſly,</hi> 'Tis underſtood that you received a Letter from a worthy Member of this Houſe Mr. <hi>Moore,</hi> and I think you told us that you had that Letter, and all other Let<g ref="char:EOLhyphen"/>ters that you had received from any Members; I know not whether the Houſe will order the reſt, but that worthy Mem<g ref="char:EOLhyphen"/>ber deſires that his Letter may be produced if you have it.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Anneſly.</hi>
+                  </speaker>
+                  <p>Mr. <hi>Moore</hi> has deſired it, has he?</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Harcourt.</hi>
+                  </speaker>
+                  <p>I deſire mine too.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Speaker.</hi>
+                  </speaker>
+                  <p>Mr. <hi>Harcourt</hi> would have his too.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Anneſly.</hi>
+                  </speaker>
+                  <p>It is with great Regret that I bring the Letters of Gentlemen here, eſpecially thoſe I received from any of the Members of this Houſe, who did me the honour to correſpond with me at that time; tho I think there is nothing written in them that any Man need decline owning. And therefore, I think it will be more for their Service to ſhew them, leſt they may be ſuſpected for what they don't deſerve: If this Houſe obliges me to lay them all before them, I muſt ſubmit.</p>
+               </sp>
+               <sp>
+                  <speaker>Members.</speaker>
+                  <p>No, no.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Speaker.</hi>
+                  </speaker>
+                  <p>But that Gentleman deſires you to produce his.</p>
+                  <p>And Mr. <hi>Harcourt</hi> alſo deſires his.</p>
+               </sp>
+               <pb n="51" facs="tcp:135319:27"/>
+               <sp>
+                  <speaker>Mr. <hi>Anneſly.</hi>
+                  </speaker>
+                  <p>I have but four in my Hand, one from Mr. <hi>Moore,</hi> one from Mr. <hi>Harcourt,</hi> the reſt are from Mr. <hi>Sloane.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Sloane.</hi>
+                  </speaker>
+                  <p>I deſire he will produce mine too.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Speaker.</hi>
+                  </speaker>
+                  <p>I think you named but three, Mr. <hi>Sloane</hi> deſires his too.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Anneſly.</hi>
+                  </speaker>
+                  <p>There are two from Mr. <hi>Sloane,</hi> one from Mr. <hi>Harcourt,</hi> and the other from Mr. <hi>Moore.</hi>
+                  </p>
+                  <p>Which Letters Mr. <hi>Anneſly</hi> delivered in to the Clerk.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Anneſly.</hi>
+                  </speaker>
+                  <p>I think it my Duty to ſay ſomething for Mr. <hi>Hamilton</hi> who is abſent, and that is to aſſure you that I never heard any words fall from him, that were unbecoming a Gentle<g ref="char:EOLhyphen"/>man fit to be intruſted by you in this Commiſſion; and as for that which is ſaid of Mr. <hi>Trenchard,</hi> 'tis falſe as to my hearing of it; I was preſent at all the Debates, and I do not remember the leaſt thing that ever came from him, reflecting upon the King or his Grants, in the whole courſe of our Converſation, otherwiſe than as he has told you himſelf.</p>
+               </sp>
+            </div>
+            <div type="resolution">
+               <head>
+                  <hi>January</hi> 15.</head>
+               <p>A Motion being made, that the four Commiſſioners for <hi>Iriſh</hi> Forfeitures, who ſigned the Report preſented to this Houſe, have acquitted themſelves in the Execution of that Commiſſion with Underſtanding and Integrity; and a Debate ariſing there<g ref="char:EOLhyphen"/>upon,</p>
+               <p>
+                  <hi>Reſolved,</hi>
+               </p>
+               <p>That the Debate be adjourn'd till to morrow 12 a Clock.</p>
+               <p>
+                  <hi>Ordered,</hi>
+               </p>
+               <p>That all the Commiſſioners for <hi>Iriſh</hi> Forfeitures who are in Town, and their Secretary, do attend the Houſe to morrow at 12 a Clock.</p>
+            </div>
+            <div type="resolution">
+               <head>
+                  <hi>January</hi> 16.</head>
+               <p>The Houſe reſumed the Debate of yeſterday, and Sir <hi>Richard Leving</hi> was called in and examined, and then withdrew.</p>
+               <p>Then Sir <hi>Francis Brewſter,</hi> Mr. <hi>Anneſly,</hi> Mr. <hi>Trenchard,</hi> Mr. <hi>Langford,</hi> and Mr. <hi>Hooper,</hi> were called in and examined, and then withdrew.</p>
+               <p>There having been divers groundleſs and ſcandalous Aſperſi<g ref="char:EOLhyphen"/>ons, caſt upon <hi>Francis Anneſly, John Trenchard, James Hamilton,</hi> and <hi>Henry Langford,</hi> Eſquires, four of the Commiſſioners for the <hi>Iriſh</hi> Forfeitures;</p>
+               <pb n="52" facs="tcp:135319:28"/>
+               <p>
+                  <hi>Reſolved,</hi> That the ſaid four Commiſſioners have acquitted themſelves in the Execution of that Commiſſion, with Un<g ref="char:EOLhyphen"/>derſtanding Courage, and Integrity.</p>
+               <p>
+                  <hi>Reſolved,</hi>
+               </p>
+               <p>That Sir <hi>Richard Leving,</hi> one other of the ſaid Commiſſioners, has been the Author of the ſaid groundleſs and ſcandalous Re<g ref="char:EOLhyphen"/>ports, upon the four Commiſſioners before mention'd.</p>
+               <p>
+                  <hi>Reſolved,</hi> That the ſaid Sir <hi>Richard Leving</hi> be committed Pri<g ref="char:EOLhyphen"/>ſoner to the <hi>Tower</hi> of <hi>London,</hi> for the ſaid Offence.</p>
+               <p>And he was committed accordingly.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:135319:28"/>
+            <gap reason="intruder" extent="1 page">
+               <desc>〈1 page inserted from a different book〉</desc>
+            </gap>
+         </div>
+      </body>
+   </text>
+</TEI>
